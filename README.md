@@ -181,13 +181,6 @@ python scripts/05_unified_portal.py
 
 The agent will retrieve real HR context from internal systems and can execute approved IT actions (ticket creation) through MCP tools, while respecting JWT and clearance restrictions.
 
-## Quick Architecture Diagram
-
-```mermaid
-flowchart TD
-    U[User] --> J[JWT Token]
-    J --> A[RBAC Engine<br/>Server Validates Token + Manager ID]
-    A --> D[Authorized Data Response]
 
 ## Technology Stack
 
