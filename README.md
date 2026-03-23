@@ -185,10 +185,9 @@ The agent will retrieve real HR context from internal systems and can execute ap
 
 ```mermaid
 flowchart TD
-    U[User] --> J[JWT]
-    J --> A[Manager/HR Check<br/>server validates token + manager_employee_id]
-    A --> D[Data (authorized tool response)]
-```
+    U[User] --> J[JWT Token]
+    J --> A[RBAC Engine<br/>Server Validates Token + Manager ID]
+    A --> D[Authorized Data Response]
 
 ## Technology Stack
 
