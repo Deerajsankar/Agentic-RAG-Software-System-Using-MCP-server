@@ -1,0 +1,179 @@
+# ExampleCorp Global Employee Handbook (Enterprise Edition)
+
+**Effective date:** 2026-03-17  
+**Document owner:** People Ops (Global)  
+**Applies to:** All employees, contractors (where referenced), interns, and contingent workers with access to ExampleCorp systems  
+
+> This handbook is a consolidated enterprise policy baseline. **Local addenda and country-specific rules prevail** where required by law or collective agreements. Where this handbook is stricter than local law, the stricter standard applies **unless prohibited** by law. Where local law is stricter, local law applies.
+
+---
+
+## 1. Guiding principles and “how we operate”
+
+### 1.1 Our operating posture (corporate reality)
+- **Compliance-first:** We optimize for auditability, regulatory defensibility, and consistent outcomes across jurisdictions.
+- **Least privilege:** Access to data and systems is provided strictly on a need-to-know basis and may be revoked without notice.
+- **Documented decisions:** If it’s not recorded in the HRIS/ticketing system, it did not happen (for compliance purposes).
+- **One company, many jurisdictions:** Regional deviations exist and must be applied correctly; **regional filtering is mandatory**.
+
+### 1.2 Definitions (used across policies)
+| Term | Meaning |
+|---|---|
+| **Employee** | An individual hired by an ExampleCorp legal entity and on payroll. |
+| **Contingent Worker** | Contractor, vendor staff, agency worker, or consultant. |
+| **People Ops** | HR function (including HRBP, Benefits, Payroll, Mobility, ER). |
+| **Manager** | Any employee with people-management responsibilities (direct or dotted line). |
+| **Confidential Data** | Any non-public data including HR data, compensation, customer info, source code, security artifacts. |
+
+---
+
+## 2. Code of conduct and workplace standards
+
+### 2.1 Professional conduct
+We expect behavior that is lawful, respectful, and aligned with company values. The following are **non-exhaustive** examples of prohibited conduct:
+1. Harassment, discrimination, retaliation, or bullying (including “subtle” harassment and microaggressions).
+2. Misuse of company funds, falsification of records, or “creative accounting.”
+3. Unauthorized disclosure of Confidential Data (including compensation, performance notes, immigration status).
+4. Circumventing security controls “for convenience.”
+
+### 2.2 Reporting channels and non-retaliation
+- **Primary route:** Manager → People Ops → Legal/Compliance (as applicable)
+- **Alternative routes:** Ethics hotline, anonymous reporting portal, Security incident channel for data/system concerns
+- **Non-retaliation:** Any perceived retaliation will be investigated as a standalone policy violation.
+
+### 2.3 Conflicts of interest (COI)
+- Disclose outside employment, board roles, family reporting lines, and vendor relationships.
+- If you influence purchasing decisions, you must disclose **any** personal interest.
+- **Edge case:** If a spouse/partner joins as a vendor employee, you must not be involved in vendor selection, contract negotiation, or invoice approvals.
+
+---
+
+## 3. Employment lifecycle (global baseline)
+
+### 3.1 Hiring, background checks, and eligibility
+- Offers are contingent on verification (identity, education/employment where legally permitted, references, sanctions screening).
+- Employment eligibility documentation must be provided within local statutory timelines.
+- **Edge case:** If verification results conflict with self-reported information, People Ops may pause onboarding, restrict system access, or rescind the offer consistent with law.
+
+### 3.2 Working hours, attendance, and “time integrity”
+- Employees must comply with local working time rules and accurately report attendance where required.
+- **No off-the-clock work** where prohibited by law (especially relevant for hourly/non-exempt populations).
+- **Edge case:** Cross-time-zone teams must not create an expectation of constant availability; managers must manage coverage explicitly.
+
+### 3.3 Remote work and location integrity
+- Your work location must match the approved location in HRIS.
+- Working from a different country/state without authorization can create tax, payroll, immigration, and export-control risk.
+- **Strict rule:** Any cross-border work beyond **10 business days** in a rolling 90-day period requires Mobility approval.
+
+---
+
+## 4. Time off, leaves, and holidays (global baseline)
+
+### 4.1 PTO and leave hierarchy
+Time off requests follow this hierarchy:
+1. **Statutory leaves** (parental, sick, bereavement, civic duty) as required by law
+2. **Company PTO policies** (vacation, personal days)
+3. **Manager discretion** (team-specific downtime scheduling)
+
+### 4.2 Requesting time off
+- All time off must be recorded in the HRIS **before the leave begins** (or as soon as practicable for emergencies).
+- Managers must approve/deny within **5 business days**. Non-response is not approval.
+- **Blackout periods:** Certain roles (Payroll, IT Security, Incident Response) may have blackout periods. Managers must publish them quarterly.
+
+### 4.3 Sick leave integrity and privacy
+- Do not disclose medical details to managers; provide only what is necessary (dates, ability to work, restrictions).
+- People Ops may request certification where permitted by law, with a privacy-minimizing approach.
+
+---
+
+## 5. Data privacy and employee records
+
+### 5.1 Employee data handling
+- HR data is **Highly Confidential** and may only be accessed by authorized roles.
+- Access is monitored, logged, and periodically reviewed.
+- **Edge case:** Managers should not store performance notes in personal documents; use approved systems only.
+
+### 5.2 Records retention (high level)
+Retention varies by jurisdiction. If unsure, treat as:
+- **Recruiting records:** 2–7 years depending on region
+- **Payroll/tax:** 7–10 years
+- **Performance/ER:** 3–7 years
+
+---
+
+## 6. Regional addenda (apply the correct region)
+
+> **Important:** The same topic may have different requirements. When applying this handbook, always start with the employee’s **legal entity + work location** in HRIS.
+
+### 6.1 United States (USA)
+#### 6.1.1 Classification and overtime
+- Employees may be classified as **Exempt** or **Non-Exempt** based on role duties and salary thresholds.
+- **Non-Exempt:** Overtime must be pre-approved; all hours worked must be recorded; managers may discipline for unauthorized overtime but must still pay for hours worked.
+
+#### 6.1.2 Leave highlights
+- **FMLA (where applicable):** Eligible employees may take job-protected leave; People Ops administers eligibility and documentation.
+- **State-specific rules:** Certain states mandate paid sick leave accrual, pay transparency, and final pay timing.
+
+#### 6.1.3 At-will employment (where applicable)
+Employment may be at-will except where prohibited by contract or law. This does not override anti-discrimination obligations.
+
+### 6.2 India
+#### 6.2.1 Working time and holidays
+- Working hours and holiday calendars vary by state and establishment registration.
+- Attendance and leave must be recorded accurately; payroll compliance relies on HRIS records.
+
+#### 6.2.2 Statutory components and separation
+- Statutory benefits may include PF/ESI (where applicable), professional tax, and gratuity eligibility (subject to tenure and law).
+- **Notice period:** Notice period obligations are governed by employment terms and local law; **buyout** may be permitted per contract and policy.
+
+#### 6.2.3 Data handling
+- Sensitive personal data must be handled per applicable Indian data protection requirements and company security standards.
+
+### 6.3 United Kingdom (UK)
+#### 6.3.1 Working time regulations
+- Working time limits apply unless an employee has signed a valid opt-out (where permitted).
+- Rest breaks and holiday entitlements must meet statutory minimums.
+
+#### 6.3.2 Sick pay and absence
+- Statutory Sick Pay (SSP) rules apply where eligible; company sick pay (if offered) is administered per plan design.
+- Fit notes may be required depending on absence duration.
+
+#### 6.3.3 Right to work
+Right to work checks must be completed in the prescribed manner and timeframe.
+
+### 6.4 Germany
+#### 6.4.1 Works council / co-determination (where applicable)
+- Certain changes (working time, monitoring tools, policy rollouts) may require works council consultation.
+- Managers must engage People Ops/Legal before implementing changes affecting German employees.
+
+#### 6.4.2 Vacation and sickness
+- Statutory vacation minimums apply; vacation is generally intended to be taken within the applicable period.
+- Medical certificates may be required according to German practice and company process.
+
+#### 6.4.3 Data protection (GDPR)
+- Employee data processing must follow GDPR principles: lawfulness, purpose limitation, data minimization, retention controls, and rights handling.
+
+---
+
+## 7. Disciplinary process (enterprise baseline)
+
+### 7.1 Progressive discipline (where lawful)
+Depending on severity and jurisdiction, steps may include:
+1. Verbal warning (documented)
+2. Written warning
+3. Performance Improvement Plan (PIP) or final warning
+4. Termination
+
+**Immediate action** may occur for severe misconduct (violence, serious data breach, fraud).
+
+### 7.2 Investigations
+- Investigations are confidential, time-bound, and documented.
+- Employees must cooperate; obstruction may be a policy violation.
+- **Edge case:** If an employee is a key witness but requests anonymity, People Ops will assess feasibility; anonymity cannot be guaranteed.
+
+---
+
+## 8. Acknowledgement and updates
+- This handbook may be updated at any time. Updated versions are published in the policy repository.
+- Employees are responsible for compliance with the most current version.
+

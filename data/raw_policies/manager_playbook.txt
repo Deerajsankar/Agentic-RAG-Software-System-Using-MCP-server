@@ -1,0 +1,188 @@
+# ExampleCorp Manager Playbook (Enterprise Edition)
+
+**Effective date:** 2026-03-17  
+**Document owner:** People Ops (HRBP / Employee Relations)  
+**Audience:** People managers, senior leaders, HR partners, program managers supporting people processes  
+
+> This playbook standardizes management behavior for consistency, auditability, and risk reduction. It intentionally includes edge cases, “what-if” scenarios, and procedural controls to support enterprise-grade RAG testing.
+
+---
+
+# 1. Manager role charter (what you are accountable for)
+
+Managers at ExampleCorp are accountable for **business outcomes** and **people outcomes**. This includes:
+- **Goal clarity:** Translating strategy into measurable objectives (team and individual).
+- **Talent stewardship:** Hiring, onboarding, coaching, performance management, succession planning.
+- **Compliance posture:** Applying policies, protecting HR data, and escalating appropriately.
+- **Operational hygiene:** Timekeeping integrity (where applicable), budgeting inputs, tooling compliance.
+
+---
+
+# 2. Operating cadence and documentation rules
+
+## 2.1 Required rituals (minimum standard)
+1. **1:1 meetings**: At least biweekly; weekly for new hires and critical roles.
+2. **Team meetings**: Weekly with documented decisions and action items.
+3. **Quarterly planning**: Goals, staffing plan, risk register, and cross-functional dependencies.
+
+## 2.2 “If it’s not recorded, it didn’t happen”
+Managers must maintain documentation in approved systems only:
+- Performance notes in the performance system / HRIS module
+- Hiring notes in the ATS
+- Employee relations issues via People Ops case management
+
+**Strict prohibition:** Do not keep performance dossiers in personal files, shared drives, or personal cloud storage.
+
+---
+
+# 3. Hiring and onboarding (risk-controlled approach)
+
+## 3.1 Structured hiring
+- Use role scorecards with competencies and evidence.
+- Avoid informal “culture fit” language; assess role-relevant behaviors.
+- Never request prohibited information (health, family planning, protected characteristics).
+
+## 3.2 Offer governance
+- Compensation offers must be within approved bands and follow pay equity rules.
+- Exceptions require written justification, HRBP approval, and, where applicable, Finance approval.
+
+## 3.3 Onboarding checklist (first 30 days)
+- [ ] Access provisioned via ticketing with least privilege
+- [ ] Role expectations and success metrics documented
+- [ ] First project scoped with milestones
+- [ ] Compliance training completed (security, privacy, ethics)
+
+---
+
+# 4. Performance management (enterprise-grade)
+
+## 4.1 Goals and metrics
+Goals should be:
+- **Specific** (what will be delivered)
+- **Measurable** (how success is evaluated)
+- **Time-bound** (when)
+- **Risk-aware** (dependencies and assumptions)
+
+## 4.2 Feedback standards
+Use behavior-and-impact framing:
+1. Situation/Context
+2. Observable behavior
+3. Impact on team/customer
+4. Expected alternative
+5. Follow-up date
+
+**Edge case:** If the employee disputes facts, document both perspectives and seek corroboration (tickets, PRs, incident logs).
+
+## 4.3 Calibration and fairness controls
+Managers must:
+- Participate in calibration sessions
+- Use evidence, not popularity
+- Avoid surprise negative ratings (unless misconduct or sudden change)
+
+## 4.4 Performance Improvement Plans (PIP)
+PIPs are used when sustained performance gaps exist and coaching has not closed them.
+
+### Minimum PIP contents
+| Section | Required elements |
+|---|---|
+| Performance gaps | Specific examples + evidence |
+| Expectations | Measurable targets and due dates |
+| Support plan | Training, pairing, check-ins |
+| Review cadence | Weekly checkpoints (minimum) |
+| Outcomes | Success criteria + consequences |
+
+**Strict rules:**
+- Coordinate with HRBP before initiating a PIP.
+- Do not make promises about outcomes; follow process and evidence.
+- If the employee requests accommodations, pause and involve People Ops to evaluate under applicable law.
+
+---
+
+# 5. Employee Relations (ER): escalation and confidentiality
+
+## 5.1 What must be escalated immediately
+Escalate to People Ops/ER within **24 hours**:
+- Harassment/discrimination allegations
+- Threats/violence/safety concerns
+- Suspected fraud, time theft (where relevant), or retaliation
+- High-risk data/privacy incidents involving employee information
+
+## 5.2 Confidentiality boundaries
+- Share information strictly on a need-to-know basis.
+- Do not discuss investigations with the team.
+- Avoid “reassurance by oversharing” (common compliance failure).
+
+---
+
+# 6. Compensation, promotions, and sensitive data
+
+## 6.1 Compensation confidentiality
+- Compensation details are Highly Confidential.
+- Discuss compensation only with:
+  - The employee (their own comp)
+  - HR/Finance as authorized
+  - Approvers in the workflow
+
+**Edge case:** If an employee shares compensation information voluntarily, managers should not discourage lawful discussion where protected by local law, but must still avoid disclosing others’ comp.
+
+## 6.2 Promotions
+Promotions are not “rewards”; they reflect sustained operation at the next level.
+
+### Promotion packet (typical)
+1. Scope and impact evidence
+2. Competency mapping
+3. Peer/partner feedback (structured)
+4. Business need and backfill impact
+
+---
+
+# 7. Leave, attendance, and wellbeing
+
+## 7.1 Leave administration
+Managers approve time off in HRIS but should not request medical details.
+
+## 7.2 Workload risk and burnout controls
+Managers must monitor:
+- Repeated after-hours work
+- On-call load
+- Incident frequency and recovery time
+
+Mitigations include:
+- Rotations, staffing adjustments, and enforced cooldowns after critical incidents.
+
+---
+
+# 8. Managing across regions (apply the correct rule set)
+
+Managers must apply policies based on the employee’s **work location** and **legal entity**, not the manager’s location.
+
+Examples of region-sensitive areas:
+- Termination notice and severance requirements
+- Working time regulations and overtime eligibility
+- Works council consultation (e.g., Germany)
+- Data privacy constraints (GDPR and local rules)
+
+**Strict rule:** Do not improvise region-specific HR guidance. Escalate to People Ops.
+
+---
+
+# 9. Common “what-if” scenarios (edge cases)
+
+1. **Employee is remote from another country temporarily**  
+   - Escalate to Mobility; do not approve informally.
+2. **Employee performance issue overlaps with medical leave**  
+   - Pause and involve HRBP; handle accommodations appropriately.
+3. **Team member reports harassment but asks you to “do nothing”**  
+   - You must still escalate; confidentiality will be protected as feasible.
+4. **Employee asks for off-cycle promotion/raise due to external offer**  
+   - Follow retention policy; coordinate with HR/Finance; do not promise outcomes.
+
+---
+
+# 10. Manager checklist (quick compliance)
+- [ ] Document goals and feedback in approved systems
+- [ ] Escalate ER concerns within required timelines
+- [ ] Protect HR data; avoid personal storage
+- [ ] Apply region-specific policies correctly
+- [ ] Use evidence-based performance processes
+

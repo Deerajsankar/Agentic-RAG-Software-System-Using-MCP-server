@@ -1,0 +1,161 @@
+# ExampleCorp Benefits & Total Rewards Policy (Enterprise Edition)
+
+**Effective date:** 2026-03-17  
+**Document owner:** Total Rewards (People Ops)  
+**Audience:** Employees (where eligible), dependents (where permitted), HR administrators, managers (limited scope)  
+
+> This policy describes ExampleCorp benefit programs in a **highly structured and auditable** manner. Plan documents, insurance certificates, and local statutory requirements supersede this summary where they differ. Benefits are offered at the discretion of ExampleCorp and may be amended, replaced, or discontinued subject to law and contractual commitments.
+
+---
+
+## 1. Eligibility and enrollment governance
+
+### 1.1 Eligibility classes
+Eligibility is based on **employment status**, **scheduled hours**, and **work location/legal entity**.
+
+- **Class A (Full-time employees):** Generally eligible for core benefits beginning on the first day of the month following start date, unless local law requires earlier eligibility.
+- **Class B (Part-time employees):** May be eligible for limited benefits if scheduled at or above **20 hours/week** (or local equivalent).
+- **Class C (Interns/temporary employees):** Eligibility varies; unless explicitly stated in offer letter, interns are not eligible for long-term incentive plans.
+- **Class D (Contractors/contingent workers):** Not eligible for employee benefits; vendor must provide coverage.
+
+### 1.2 Enrollment windows and default rules
+1. **New hire window:** 31 calendar days from the later of (a) hire date or (b) benefit eligibility date.
+2. **Annual enrollment:** Typically November (US) or region-specific period (India/UK/DE). Coverage changes effective the next plan year.
+3. **Qualifying life events (QLE):** Marriage, birth/adoption, loss of coverage, relocation, etc. Must be reported within **30 days** (or local statutory timelines).
+
+**Edge cases (strict):**
+- Late elections are generally denied unless required by law or plan design.
+- If documentation is missing/incomplete, elections may be rejected or coverage may be retroactively terminated.
+- If payroll deductions cannot be collected due to leave/insufficient pay, the employee must arrange **catch-up deductions** or pay via approved methods.
+
+### 1.3 Dependent eligibility (illustrative)
+| Dependent type | Generally eligible? | Typical documentation |
+|---|---:|---|
+| Spouse/registered partner | Yes (jurisdiction-dependent) | Marriage certificate/registration |
+| Domestic partner | Where recognized by plan | Affidavit, proof of cohabitation |
+| Children | Yes up to age limit | Birth certificate/adoption order |
+| Parents | Typically no (except certain regions/plans) | As specified |
+
+---
+
+## 2. Health plans (tier-based designs with deductibles)
+
+> The examples below are enterprise-grade test data. Actual offerings vary by country and legal entity.
+
+### 2.1 Plan tiers (US example)
+ExampleCorp offers tier-based medical plans for eligible US employees:
+
+| Plan tier | Network | Annual deductible (Individual / Family) | Coinsurance | Out-of-pocket max (Individual / Family) | Primary care copay |
+|---|---|---:|---:|---:|---:|
+| **Bronze** | PPO | \$2,500 / \$5,000 | 70% after deductible | \$7,900 / \$15,800 | \$35 |
+| **Silver** | PPO | \$1,500 / \$3,000 | 80% after deductible | \$6,500 / \$13,000 | \$30 |
+| **Gold** | PPO | \$750 / \$1,500 | 90% after deductible | \$4,500 / \$9,000 | \$20 |
+| **Platinum** | EPO | \$500 / \$1,000 | 90% after deductible | \$3,000 / \$6,000 | \$15 |
+
+**Notes and exceptions:**
+- Preventive care is covered at **100% in-network** when billed as preventive, subject to plan rules.
+- Out-of-network coverage (where offered) may have separate deductibles and higher coinsurance.
+- Certain specialty drugs require **prior authorization** and may be subject to step therapy.
+- Telemedicine may be covered differently depending on vendor contracts and state law.
+
+### 2.2 Dental and vision (illustrative)
+| Coverage | Deductible | Annual max benefit | Common limits |
+|---|---:|---:|---|
+| Dental (Basic) | \$50/person | \$1,500 | Major services 50% |
+| Dental (Enhanced) | \$50/person | \$2,500 | Ortho lifetime \$2,000 |
+| Vision | N/A | N/A | Exam \$10 copay; frames allowance \$200 |
+
+### 2.3 Health plan surcharges and spousal carve-outs (strict)
+- **Spousal surcharge:** If a spouse has access to employer-sponsored coverage and elects ExampleCorp coverage, a surcharge of **\$85/month** may apply (US example).
+- **Tobacco surcharge:** If allowed by law, participants who attest to tobacco use may incur a **\$60/month** surcharge and must complete a cessation program to remove it.
+
+---
+
+## 3. Retirement, savings, and vesting schedules
+
+### 3.1 401(k) (US example) and matching
+- Employee contributions: up to IRS limits, pre-tax and/or Roth where available.
+- Company match: **100% of the first 4%** + **50% of the next 2%** of eligible pay (maximum match 5%).
+
+### 3.2 Vesting schedule (company match)
+Company match vests over time to encourage retention and reduce financial leakage.
+
+| Completed service | Vested % of company match |
+|---:|---:|
+| 0–11 months | 0% |
+| 12–23 months | 25% |
+| 24–35 months | 50% |
+| 36–47 months | 75% |
+| 48+ months | 100% |
+
+**Edge cases and compliance rules:**
+- **Rehire bridging:** If rehired within **12 months**, prior service may be bridged for vesting; if rehired after 12 months, vesting service may restart (plan-dependent).
+- **Leave impact:** Certain leaves (e.g., military service) may count toward vesting where required by law.
+- **Forfeiture:** Unvested match is forfeited upon separation; forfeitures may be used to offset plan expenses as permitted.
+
+### 3.3 Equity and long-term incentives (overview)
+Equity programs (RSUs/ESPP) are governed by equity plan documents and local securities/tax rules.
+
+#### RSU vesting (illustrative “standard” schedule)
+| Grant type | Cliff | Thereafter | Typical total duration |
+|---|---|---|---|
+| RSU (Standard) | 12 months (25%) | Monthly (1/48 each month) | 4 years |
+| RSU (Executive) | 6 months (15%) | Quarterly | 3–4 years |
+
+**Compliance and edge cases:**
+- Equity vesting may be paused or modified for **country transfers**, **sanctions**, **export control restrictions**, or **insider trading blackouts**.
+- Termination provisions (good leaver/bad leaver) are defined in plan documents and local law.
+
+---
+
+## 4. Leave-related benefits and income protection
+
+### 4.1 Short-term disability (STD) / sickness pay (varies by region)
+Where provided, income replacement may include:
+- STD: up to **60% of base salary** for up to 12 weeks (US example), subject to certification and waiting periods.
+- Long-term disability (LTD): up to **50–60%** beyond STD, subject to insurer definitions.
+
+**Strict rules:**
+- Misrepresentation can trigger claim denial and employment action.
+- All medical documentation is handled by the disability administrator; managers should not collect medical details.
+
+### 4.2 Life insurance (illustrative)
+- Basic life: **2× base salary** (capped), employer-paid where offered.
+- Optional supplemental life: employee-paid with evidence of insurability thresholds.
+
+---
+
+## 5. Allowances and reimbursements (policy controls)
+
+### 5.1 Wellness/L&D stipends (illustrative)
+- Wellness: up to **\$600/year** for eligible items (gym membership, ergonomic items).
+- Learning: up to **\$1,500/year** for courses, certifications, books.
+
+**Compliance controls:**
+- Receipts required; reimbursement is taxable in some jurisdictions.
+- Purchases must be for the employee’s use; resale is prohibited.
+- Approvals may be denied if expense is outside policy or budget.
+
+---
+
+## 6. Claims, audits, and fraud prevention
+
+### 6.1 Auditability requirements
+- Employees must retain receipts and supporting documents for **7 years** where required by policy or law.
+- Random audits may be performed; failure to provide documentation can result in repayment obligations.
+
+### 6.2 Fraud and misrepresentation
+Examples include (non-exhaustive):
+1. Enrolling ineligible dependents
+2. Altering receipts
+3. Misstating work location to obtain richer benefits
+
+Violations may lead to discipline up to termination and referral to authorities where appropriate.
+
+---
+
+## 7. Contacts and escalation
+- **Benefits questions:** People Ops → Total Rewards queue
+- **Claims disputes:** Carrier administrator (first), then Total Rewards (escalation)
+- **Suspected fraud:** Compliance hotline
+

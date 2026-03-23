@@ -1,0 +1,16 @@
+# ExampleCorp Offer Letter (Mock)
+
+**Candidate:** Sarah Connor
+
+## Role and compensation
+- **Role:** Lead Security Engineer
+- **Base salary (USD):** 185000
+- **Start date:** TBD (contingent on background verification)
+
+## Compliance and conditions
+1. This offer is contingent upon satisfactory verification, eligibility to work, and policy acknowledgements.
+2. Compensation information is confidential and may be disclosed only to authorized stakeholders.
+3. Work location must be approved in HRIS; cross-border work requires Mobility approval.
+
+## Acceptance
+Please reply to confirm acceptance and complete onboarding steps in the HR portal.

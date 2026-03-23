@@ -1,0 +1,187 @@
+# ExampleCorp IT Security & Acceptable Use Policy (Enterprise Edition)
+
+**Effective date:** 2026-03-17  
+**Document owner:** Information Security (CISO Office)  
+**Applies to:** All employees, interns, contractors, vendors with system access  
+
+> This policy is written in a deliberately enterprise-complex format to support compliance testing, audits, and RAG retrieval. It does not replace detailed standards (e.g., encryption, logging, vulnerability management) but it **does impose mandatory requirements**. Failure to comply may result in access removal, disciplinary action, contract termination, and/or legal action.
+
+---
+
+# 1. Policy objectives and compliance posture
+
+## 1.1 Objectives
+- **Confidentiality:** Prevent unauthorized disclosure of data (especially HR and customer data).
+- **Integrity:** Prevent unauthorized modification of systems/data and ensure changes are attributable.
+- **Availability:** Reduce operational risk from outages, malware, ransomware, and disruptive events.
+- **Audit readiness:** Ensure evidence exists for key controls (ISO 27001, SOC 2, GDPR, etc.).
+
+## 1.2 Scope and precedence
+If there is conflict between policies:
+1. **Law/regulation** (highest)
+2. **Contractual obligations** (customer/security addenda)
+3. **Security policies and standards**
+4. **Team playbooks/procedures** (lowest)
+
+---
+
+# 2. Data classification, handling, and storage
+
+## 2.1 Data classification
+| Classification | Examples | Storage rules (minimum) |
+|---|---|---|
+| **Public** | Marketing site content | Approved SaaS and public repos allowed |
+| **Internal** | Org charts, internal wiki | Approved SaaS; restricted sharing |
+| **Confidential** | Customer data, source code | Encryption at rest/in transit; access logging |
+| **Highly Confidential** | HR records, compensation, security keys, legal matters | Strict least privilege, DLP controls, admin approvals |
+
+## 2.2 Handling requirements (strict)
+- **No HR data in personal notes** or unapproved document tools.
+- **No uncontrolled exports** (CSV downloads) of HR or customer data unless justified, ticketed, and time-bound.
+- **Encryption is mandatory** for Confidential and above in transit and at rest.
+
+## 2.3 Storage and retention rules
+1. Store data only in approved systems (corporate Google/M365, approved ticketing, approved HRIS).
+2. Use the minimum retention necessary; where unsure, follow the retention schedule.
+3. **Edge case:** If a litigation hold exists, deletion is paused even if retention would normally expire.
+
+---
+
+# 3. Identity, authentication, and access control
+
+## 3.1 Identity and MFA
+- All corporate accounts must use **MFA** (phishing-resistant methods preferred).
+- Shared accounts are prohibited unless formally approved with compensating controls.
+- Password managers must be company-approved and centrally managed.
+
+## 3.2 Access provisioning and clearance alignment
+ExampleCorp uses role-based access and clearance levels. **Clearance does not automatically grant access**.
+
+| Clearance level | Typical access posture | Additional controls |
+|---:|---|---|
+| 1 | General internal tools | Standard MFA, baseline logging |
+| 2 | Team systems | Manager approval, periodic review |
+| 3 | Sensitive systems | Security review, stronger monitoring |
+| 4 | High-risk systems | Just-in-time access, session recording |
+| 5 | Executive/highly sensitive | Explicit named access, quarterly re-authorization |
+
+**Edge cases:**
+- Access requests must be supported by a ticket with business justification and data classification.
+- Emergency access (“break glass”) requires incident number + post-incident review within **48 hours**.
+
+## 3.3 Privileged access management (PAM)
+- Admin access must be time-bound and reviewed.
+- Use separate privileged accounts where required.
+- **No admin actions from unmanaged devices.**
+
+---
+
+# 4. Endpoint security (devices, encryption, patching)
+
+## 4.1 Approved devices and MDM
+- Company-managed devices are required for engineering and for roles handling Confidential+ data.
+- Devices must be enrolled in MDM with:
+  - Full-disk encryption enabled
+  - Screen lock (≤ 5 minutes)
+  - Endpoint protection (EDR)
+
+## 4.2 Patching and software
+- OS/security updates must be applied within:
+  - **7 days** for critical patches
+  - **30 days** for standard patches
+- Installation of unapproved software requires security review.
+- Browser extensions are treated as software and must be approved.
+
+## 4.3 Lost/stolen device protocol (strict timelines)
+1. Report to Security/IT within **1 hour** of discovery.
+2. Provide last known location, device serial, and whether it contained Confidential+ data.
+3. IT will remote lock/wipe when feasible.
+
+---
+
+# 5. Network security and remote access
+
+## 5.1 Corporate network usage
+- Use VPN/secure tunnels where required, especially on public Wi‑Fi.
+- Do not connect corporate devices to insecure networks with unknown provenance when avoidable.
+
+## 5.2 Remote work edge cases
+- Working from restricted or sanctioned regions is prohibited without Legal approval.
+- Some systems may enforce geo-restrictions; attempts to bypass controls are a policy violation.
+
+---
+
+# 6. Email, messaging, and acceptable use
+
+## 6.1 Acceptable use (high-level)
+Corporate systems exist to support business operations. Limited personal use is permitted if it:
+- Does not violate law or policy
+- Does not expose the company to security risk
+- Does not create excessive cost or operational burden
+
+## 6.2 Prohibited behavior (non-exhaustive)
+1. Sending Confidential+ data to personal email or personal cloud storage
+2. Sharing credentials, API keys, or MFA prompts with others
+3. Using unauthorized generative AI tools with Confidential+ inputs
+4. Harassment or discriminatory content on corporate channels
+
+---
+
+# 7. Application security (developer and admin obligations)
+
+## 7.1 Secret management
+- Secrets must be stored in approved secret managers; never hardcode keys in repositories.
+- Rotations:
+  - High-risk secrets: rotate at least every **90 days**
+  - Compromised secrets: rotate immediately with incident ticket
+
+## 7.2 Change management and audit trails
+- Production changes require:
+  - Change request/ticket
+  - Peer review where applicable
+  - Documented rollback plan
+- **Edge case:** Emergency changes must be documented retroactively within **24 hours**.
+
+---
+
+# 8. Incident response (IR) and breach handling
+
+## 8.1 What qualifies as an incident
+Examples:
+- Suspected phishing or credential compromise
+- Malware detection, ransomware indicators
+- Unauthorized access attempts or data exfiltration alerts
+- Loss of device containing Confidential+ data
+
+## 8.2 Reporting and escalation
+1. Notify Security immediately via the incident channel.
+2. Do not “investigate alone” if it risks evidence destruction.
+3. Preserve logs and artifacts as directed.
+
+## 8.3 Evidence and containment rules
+- Do not delete suspicious emails/files.
+- Quarantine affected devices; capture volatile data if instructed.
+- Incident commanders may require access suspensions or forced credential resets.
+
+---
+
+# 9. Compliance, monitoring, and privacy
+
+## 9.1 Monitoring notice
+ExampleCorp may monitor corporate systems for security and compliance, subject to law and works council requirements (where applicable).
+
+## 9.2 Policy exceptions
+Exceptions require:
+1. Documented business justification
+2. Security risk assessment
+3. Time-bound approval with compensating controls
+
+---
+
+# 10. Quick-reference checklist (for audits)
+- [ ] MFA enabled for all accounts
+- [ ] Devices enrolled in MDM + encrypted
+- [ ] No secrets in repos; approved secret manager used
+- [ ] Access requests ticketed, time-bound, reviewed
+- [ ] IR reporting within required timelines
+

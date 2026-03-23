@@ -1,0 +1,16 @@
+[
+  {
+    "ticket_id": "TCKT-32CD345E",
+    "emp_id": "E1051",
+    "status": "Open",
+    "description": "Laptop battery not holding a charge.",
+    "priority": "P2"
+  },
+  {
+    "ticket_id": "TCKT-1E095CC4",
+    "emp_id": "E1001",
+    "status": "Open",
+    "description": "My laptop screen is physically cracked. I have already tried restarting and checking cables, but the screen is broken.",
+    "priority": "P4"
+  }
+]

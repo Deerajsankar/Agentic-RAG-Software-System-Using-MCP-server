@@ -1,0 +1,1359 @@
+{
+  "meta": {
+    "cycle": "2026-H1",
+    "generated_at": "2011-02-14T13:11:18",
+    "record_count": 50
+  },
+  "performance_reviews": {
+    "E1000": {
+      "cycle": "2026-H1",
+      "employee_id": "E1000",
+      "overall_rating_numeric": 3.33,
+      "overall_rating_label": "Exceeds",
+      "competencies": {
+        "Impact": 3,
+        "Execution": 4,
+        "Collaboration": 3,
+        "Leadership": 4,
+        "Communication": 3,
+        "Growth Mindset": 3
+      },
+      "goals": [
+        {
+          "goal": "Sister crime TV environmental increase such",
+          "status": "On Track"
+        },
+        {
+          "goal": "Here under possible few political hot",
+          "status": "Completed"
+        }
+      ],
+      "manager_summary": "Shoulder probably development hour personal.",
+      "employee_self_reflection": "Eat various best capital. Half peace herself lose. Professional building low raise customer.",
+      "promotion_recommendation": "No"
+    },
+    "E1001": {
+      "cycle": "2026-H1",
+      "employee_id": "E1001",
+      "overall_rating_numeric": 2.33,
+      "overall_rating_label": "Meets",
+      "competencies": {
+        "Impact": 3,
+        "Execution": 3,
+        "Collaboration": 2,
+        "Leadership": 2,
+        "Communication": 2,
+        "Growth Mindset": 2
+      },
+      "goals": [
+        {
+          "goal": "Everybody study community economy with important state",
+          "status": "At Risk"
+        },
+        {
+          "goal": "Cut agreement south either support force law",
+          "status": "Completed"
+        }
+      ],
+      "manager_summary": "Between quality she hotel coach hotel week. Research green week.",
+      "employee_self_reflection": "Weight response stuff single.",
+      "promotion_recommendation": "Consider"
+    },
+    "E1002": {
+      "cycle": "2026-H1",
+      "employee_id": "E1002",
+      "overall_rating_numeric": 2.33,
+      "overall_rating_label": "Meets",
+      "competencies": {
+        "Impact": 2,
+        "Execution": 2,
+        "Collaboration": 2,
+        "Leadership": 2,
+        "Communication": 3,
+        "Growth Mindset": 3
+      },
+      "goals": [
+        {
+          "goal": "Whether likely who policy green",
+          "status": "On Track"
+        },
+        {
+          "goal": "Watch security detail ground various personal truth",
+          "status": "Completed"
+        }
+      ],
+      "manager_summary": "West represent open mother short. Game can rate medical study spend. Growth poor computer visit.",
+      "employee_self_reflection": "World white staff drug. Throughout example memory guy upon say dog. Dream cell series south mouth hope.",
+      "promotion_recommendation": "No"
+    },
+    "E1003": {
+      "cycle": "2026-H1",
+      "employee_id": "E1003",
+      "overall_rating_numeric": 2.33,
+      "overall_rating_label": "Meets",
+      "competencies": {
+        "Impact": 3,
+        "Execution": 2,
+        "Collaboration": 2,
+        "Leadership": 3,
+        "Communication": 2,
+        "Growth Mindset": 2
+      },
+      "goals": [
+        {
+          "goal": "Create along environment section son attack ground",
+          "status": "On Track"
+        },
+        {
+          "goal": "Series moment ever country pick sign wall",
+          "status": "On Track"
+        }
+      ],
+      "manager_summary": "Focus human camera whom follow government pull. Billion nothing look democratic.",
+      "employee_self_reflection": "Adult cut four exactly cultural chair until develop. Source positive government career vote.",
+      "promotion_recommendation": "Yes"
+    },
+    "E1004": {
+      "cycle": "2026-H1",
+      "employee_id": "E1004",
+      "overall_rating_numeric": 2.17,
+      "overall_rating_label": "Meets",
+      "competencies": {
+        "Impact": 2,
+        "Execution": 2,
+        "Collaboration": 2,
+        "Leadership": 3,
+        "Communication": 2,
+        "Growth Mindset": 2
+      },
+      "goals": [
+        {
+          "goal": "Him friend true answer education read relationship",
+          "status": "Completed"
+        },
+        {
+          "goal": "Rock care condition couple idea as mother indicate artist",
+          "status": "On Track"
+        }
+      ],
+      "manager_summary": "Few reality simple six. Thing participant fine life food.",
+      "employee_self_reflection": "Material customer picture word every safe certainly person. Father read prevent institution. Chair better American history own whether wife.",
+      "promotion_recommendation": "No"
+    },
+    "E1005": {
+      "cycle": "2026-H1",
+      "employee_id": "E1005",
+      "overall_rating_numeric": 1.83,
+      "overall_rating_label": "Meets",
+      "competencies": {
+        "Impact": 2,
+        "Execution": 1,
+        "Collaboration": 2,
+        "Leadership": 3,
+        "Communication": 2,
+        "Growth Mindset": 1
+      },
+      "goals": [
+        {
+          "goal": "Free condition type compare whom",
+          "status": "At Risk"
+        },
+        {
+          "goal": "Her month century style likely",
+          "status": "On Track"
+        }
+      ],
+      "manager_summary": "Institution policy church me some. Challenge subject learn federal knowledge drop either. Continue listen card trade cold task.",
+      "employee_self_reflection": "Foot pass throughout shoulder feeling play week. Child all fall rather health like card. Year bit popular type lawyer last owner would.",
+      "promotion_recommendation": "No"
+    },
+    "E1006": {
+      "cycle": "2026-H1",
+      "employee_id": "E1006",
+      "overall_rating_numeric": 1.33,
+      "overall_rating_label": "Needs Improvement",
+      "competencies": {
+        "Impact": 2,
+        "Execution": 1,
+        "Collaboration": 1,
+        "Leadership": 1,
+        "Communication": 2,
+        "Growth Mindset": 1
+      },
+      "goals": [
+        {
+          "goal": "College federal figure rise",
+          "status": "At Risk"
+        },
+        {
+          "goal": "Dog seem building billion",
+          "status": "On Track"
+        }
+      ],
+      "manager_summary": "Sometimes capital here other do stand. Resource key letter tax. Check action his style suddenly.",
+      "employee_self_reflection": "Create subject start. Chair many concern.",
+      "promotion_recommendation": "No"
+    },
+    "E1007": {
+      "cycle": "2026-H1",
+      "employee_id": "E1007",
+      "overall_rating_numeric": 2.5,
+      "overall_rating_label": "Meets",
+      "competencies": {
+        "Impact": 3,
+        "Execution": 3,
+        "Collaboration": 2,
+        "Leadership": 2,
+        "Communication": 3,
+        "Growth Mindset": 2
+      },
+      "goals": [
+        {
+          "goal": "Attention measure just form own present",
+          "status": "At Risk"
+        },
+        {
+          "goal": "Rest manage list particular",
+          "status": "On Track"
+        }
+      ],
+      "manager_summary": "Defense bag laugh member occur. Little within put station statement town color.",
+      "employee_self_reflection": "Eye various watch boy leader. Very road go employee. Cold protect crime born it.",
+      "promotion_recommendation": "Consider"
+    },
+    "E1008": {
+      "cycle": "2026-H1",
+      "employee_id": "E1008",
+      "overall_rating_numeric": 2.83,
+      "overall_rating_label": "Exceeds",
+      "competencies": {
+        "Impact": 3,
+        "Execution": 2,
+        "Collaboration": 3,
+        "Leadership": 3,
+        "Communication": 3,
+        "Growth Mindset": 3
+      },
+      "goals": [
+        {
+          "goal": "Size table religious professional health",
+          "status": "At Risk"
+        },
+        {
+          "goal": "Card kind find community rich simply sort material write",
+          "status": "Completed"
+        }
+      ],
+      "manager_summary": "Someone think without than factor suggest. Training crime letter according.",
+      "employee_self_reflection": "Almost population professional. Realize order white interview.",
+      "promotion_recommendation": "No"
+    },
+    "E1009": {
+      "cycle": "2026-H1",
+      "employee_id": "E1009",
+      "overall_rating_numeric": 2.17,
+      "overall_rating_label": "Meets",
+      "competencies": {
+        "Impact": 2,
+        "Execution": 2,
+        "Collaboration": 3,
+        "Leadership": 2,
+        "Communication": 3,
+        "Growth Mindset": 1
+      },
+      "goals": [
+        {
+          "goal": "Cut send later end",
+          "status": "At Risk"
+        },
+        {
+          "goal": "Clearly over bank view back TV",
+          "status": "Completed"
+        }
+      ],
+      "manager_summary": "Arrive point special huge blue kid order. Lot mention figure door others marriage near.",
+      "employee_self_reflection": "Record upon coach bed dog successful house. Stop shake book develop today painting. Program voice travel affect from.",
+      "promotion_recommendation": "Consider"
+    },
+    "E1010": {
+      "cycle": "2026-H1",
+      "employee_id": "E1010",
+      "overall_rating_numeric": 2.83,
+      "overall_rating_label": "Exceeds",
+      "competencies": {
+        "Impact": 3,
+        "Execution": 3,
+        "Collaboration": 3,
+        "Leadership": 2,
+        "Communication": 3,
+        "Growth Mindset": 3
+      },
+      "goals": [
+        {
+          "goal": "Analysis full recently can director pressure force",
+          "status": "On Track"
+        },
+        {
+          "goal": "Might truth yeah tonight",
+          "status": "Completed"
+        }
+      ],
+      "manager_summary": "Choose ready wrong want. Sign economic he record be organization chance. Future probably show participant far.",
+      "employee_self_reflection": "Time single place happen force. Whose arm that look break. Such audience church.",
+      "promotion_recommendation": "No"
+    },
+    "E1011": {
+      "cycle": "2026-H1",
+      "employee_id": "E1011",
+      "overall_rating_numeric": 1.83,
+      "overall_rating_label": "Meets",
+      "competencies": {
+        "Impact": 2,
+        "Execution": 2,
+        "Collaboration": 2,
+        "Leadership": 1,
+        "Communication": 3,
+        "Growth Mindset": 1
+      },
+      "goals": [
+        {
+          "goal": "Trial few cell age concern",
+          "status": "On Track"
+        },
+        {
+          "goal": "Common week tree traditional billion still when of professor",
+          "status": "On Track"
+        }
+      ],
+      "manager_summary": "Field best positive blood. Dream color far entire three maybe true record. Natural manager side on suffer much a.",
+      "employee_self_reflection": "Past crime movie machine across. Yourself thus report no billion hospital. Whole not structure.",
+      "promotion_recommendation": "No"
+    },
+    "E1012": {
+      "cycle": "2026-H1",
+      "employee_id": "E1012",
+      "overall_rating_numeric": 3.17,
+      "overall_rating_label": "Exceeds",
+      "competencies": {
+        "Impact": 3,
+        "Execution": 3,
+        "Collaboration": 3,
+        "Leadership": 3,
+        "Communication": 3,
+        "Growth Mindset": 4
+      },
+      "goals": [
+        {
+          "goal": "Cup order movie stock",
+          "status": "On Track"
+        },
+        {
+          "goal": "Know scientist outside good behavior",
+          "status": "Completed"
+        }
+      ],
+      "manager_summary": "Control thought cause program into dog area. International experience education film prevent pass.",
+      "employee_self_reflection": "Participant across age. Rise season over machine around level.",
+      "promotion_recommendation": "No"
+    },
+    "E1013": {
+      "cycle": "2026-H1",
+      "employee_id": "E1013",
+      "overall_rating_numeric": 1.5,
+      "overall_rating_label": "Meets",
+      "competencies": {
+        "Impact": 1,
+        "Execution": 1,
+        "Collaboration": 2,
+        "Leadership": 1,
+        "Communication": 2,
+        "Growth Mindset": 2
+      },
+      "goals": [
+        {
+          "goal": "Security people kitchen allow",
+          "status": "Completed"
+        },
+        {
+          "goal": "Policy certainly radio key professor",
+          "status": "Completed"
+        }
+      ],
+      "manager_summary": "Lose position pick make story consumer beat. If rise whose table order.",
+      "employee_self_reflection": "Certainly occur off full travel. Range response soon social baby. Many road however half care.",
+      "promotion_recommendation": "No"
+    },
+    "E1014": {
+      "cycle": "2026-H1",
+      "employee_id": "E1014",
+      "overall_rating_numeric": 2.5,
+      "overall_rating_label": "Meets",
+      "competencies": {
+        "Impact": 3,
+        "Execution": 2,
+        "Collaboration": 3,
+        "Leadership": 2,
+        "Communication": 3,
+        "Growth Mindset": 2
+      },
+      "goals": [
+        {
+          "goal": "Knowledge national social hundred",
+          "status": "At Risk"
+        },
+        {
+          "goal": "Lose clear begin time produce base main",
+          "status": "On Track"
+        }
+      ],
+      "manager_summary": "House Republican give easy certain. Eat seven gun magazine could blood. Watch stay court make benefit clear here treatment.",
+      "employee_self_reflection": "Education herself black defense security think fact hair. Site drug hundred lawyer. Old various treat resource second. That forward although cover.",
+      "promotion_recommendation": "No"
+    },
+    "E1015": {
+      "cycle": "2026-H1",
+      "employee_id": "E1015",
+      "overall_rating_numeric": 1.67,
+      "overall_rating_label": "Meets",
+      "competencies": {
+        "Impact": 2,
+        "Execution": 1,
+        "Collaboration": 1,
+        "Leadership": 2,
+        "Communication": 2,
+        "Growth Mindset": 2
+      },
+      "goals": [
+        {
+          "goal": "Loss on data address beat thus simple",
+          "status": "At Risk"
+        },
+        {
+          "goal": "Second public development economy their so",
+          "status": "Completed"
+        }
+      ],
+      "manager_summary": "Pull control little try couple describe. Political might own turn particular. He wide safe include important.",
+      "employee_self_reflection": "Experience everything guy. Wait past city so recent. Write enough business entire concern conference people.",
+      "promotion_recommendation": "No"
+    },
+    "E1016": {
+      "cycle": "2026-H1",
+      "employee_id": "E1016",
+      "overall_rating_numeric": 1.83,
+      "overall_rating_label": "Meets",
+      "competencies": {
+        "Impact": 2,
+        "Execution": 2,
+        "Collaboration": 1,
+        "Leadership": 2,
+        "Communication": 2,
+        "Growth Mindset": 2
+      },
+      "goals": [
+        {
+          "goal": "Shoulder the piece whose run individual candidate",
+          "status": "Completed"
+        },
+        {
+          "goal": "Agency rise important enter check",
+          "status": "On Track"
+        }
+      ],
+      "manager_summary": "Return form know make eye different. Memory rich front prepare yard. Allow avoid air activity new address even billion. Skin sing property best all.",
+      "employee_self_reflection": "Develop must friend ready woman shake where. Miss baby number may. Budget break stand wind first.",
+      "promotion_recommendation": "No"
+    },
+    "E1017": {
+      "cycle": "2026-H1",
+      "employee_id": "E1017",
+      "overall_rating_numeric": 2.67,
+      "overall_rating_label": "Exceeds",
+      "competencies": {
+        "Impact": 2,
+        "Execution": 3,
+        "Collaboration": 3,
+        "Leadership": 3,
+        "Communication": 2,
+        "Growth Mindset": 3
+      },
+      "goals": [
+        {
+          "goal": "Development group good develop success",
+          "status": "On Track"
+        },
+        {
+          "goal": "Guy already commercial save say whatever bad",
+          "status": "Completed"
+        }
+      ],
+      "manager_summary": "There strong our until. Lose concern own reality heart my popular toward. Behind provide door little Congress wait despite. Plant avoid even party level out young would.",
+      "employee_self_reflection": "Apply organization in really oil walk. Provide score run option several. Lead daughter close or loss share development state.",
+      "promotion_recommendation": "Consider"
+    },
+    "E1018": {
+      "cycle": "2026-H1",
+      "employee_id": "E1018",
+      "overall_rating_numeric": 2.0,
+      "overall_rating_label": "Meets",
+      "competencies": {
+        "Impact": 2,
+        "Execution": 1,
+        "Collaboration": 2,
+        "Leadership": 3,
+        "Communication": 2,
+        "Growth Mindset": 2
+      },
+      "goals": [
+        {
+          "goal": "Majority low wait land begin",
+          "status": "Completed"
+        },
+        {
+          "goal": "Red plan marriage against later service whether",
+          "status": "Completed"
+        }
+      ],
+      "manager_summary": "Other get issue as. Wide final body off plant region. Boy doctor address scientist price star.",
+      "employee_self_reflection": "Fast top each dog carry edge. Gas drive ask beautiful oil already.",
+      "promotion_recommendation": "Consider"
+    },
+    "E1019": {
+      "cycle": "2026-H1",
+      "employee_id": "E1019",
+      "overall_rating_numeric": 2.5,
+      "overall_rating_label": "Meets",
+      "competencies": {
+        "Impact": 3,
+        "Execution": 3,
+        "Collaboration": 2,
+        "Leadership": 2,
+        "Communication": 2,
+        "Growth Mindset": 3
+      },
+      "goals": [
+        {
+          "goal": "Brother can mother attention",
+          "status": "Completed"
+        },
+        {
+          "goal": "If machine every second hit economy song have network",
+          "status": "Completed"
+        }
+      ],
+      "manager_summary": "Seven or strong. Thousand year woman how place hundred best able. Traditional force rock some apply.",
+      "employee_self_reflection": "Should imagine any. Lay within thought radio respond same. Program glass future memory authority.",
+      "promotion_recommendation": "No"
+    },
+    "E1020": {
+      "cycle": "2026-H1",
+      "employee_id": "E1020",
+      "overall_rating_numeric": 3.0,
+      "overall_rating_label": "Exceeds",
+      "competencies": {
+        "Impact": 2,
+        "Execution": 4,
+        "Collaboration": 2,
+        "Leadership": 4,
+        "Communication": 3,
+        "Growth Mindset": 3
+      },
+      "goals": [
+        {
+          "goal": "Where data it better",
+          "status": "Completed"
+        },
+        {
+          "goal": "Read win seven state deal ability result for",
+          "status": "Completed"
+        }
+      ],
+      "manager_summary": "Organization three site marriage center. Long hold sit teach with.",
+      "employee_self_reflection": "Start picture remember into. Small foreign discover class. East board tax he likely. Wish just charge myself join.",
+      "promotion_recommendation": "No"
+    },
+    "E1021": {
+      "cycle": "2026-H1",
+      "employee_id": "E1021",
+      "overall_rating_numeric": 1.67,
+      "overall_rating_label": "Meets",
+      "competencies": {
+        "Impact": 2,
+        "Execution": 1,
+        "Collaboration": 1,
+        "Leadership": 2,
+        "Communication": 2,
+        "Growth Mindset": 2
+      },
+      "goals": [
+        {
+          "goal": "High fish at hear over majority",
+          "status": "At Risk"
+        },
+        {
+          "goal": "Major piece couple happen kitchen go recent",
+          "status": "On Track"
+        }
+      ],
+      "manager_summary": "Four paper build meeting road. Factor change eye cup next threat. Exactly account successful respond civil scientist as.",
+      "employee_self_reflection": "Coach great choice ok hard. Investment so section computer debate. Play why consumer. System close want current.",
+      "promotion_recommendation": "No"
+    },
+    "E1022": {
+      "cycle": "2026-H1",
+      "employee_id": "E1022",
+      "overall_rating_numeric": 1.83,
+      "overall_rating_label": "Meets",
+      "competencies": {
+        "Impact": 2,
+        "Execution": 1,
+        "Collaboration": 2,
+        "Leadership": 2,
+        "Communication": 2,
+        "Growth Mindset": 2
+      },
+      "goals": [
+        {
+          "goal": "Court race kitchen popular fact",
+          "status": "At Risk"
+        },
+        {
+          "goal": "Open carry end once near admit particularly",
+          "status": "Completed"
+        }
+      ],
+      "manager_summary": "Yeah light ability camera people. Short forward eye turn expert dinner investment goal. Final per national however enjoy last painting. Action himself there week my office game.",
+      "employee_self_reflection": "Beat artist while defense just least finish tax. Put police writer on administration. Economic think Democrat positive.",
+      "promotion_recommendation": "No"
+    },
+    "E1023": {
+      "cycle": "2026-H1",
+      "employee_id": "E1023",
+      "overall_rating_numeric": 1.0,
+      "overall_rating_label": "Needs Improvement",
+      "competencies": {
+        "Impact": 1,
+        "Execution": 1,
+        "Collaboration": 1,
+        "Leadership": 1,
+        "Communication": 1,
+        "Growth Mindset": 1
+      },
+      "goals": [
+        {
+          "goal": "Amount natural value sure administration",
+          "status": "On Track"
+        },
+        {
+          "goal": "Image bag half not six result",
+          "status": "On Track"
+        }
+      ],
+      "manager_summary": "Understand ground practice usually. Today reveal produce black attention.",
+      "employee_self_reflection": "Nation cut president later. Special base total add option. Attorney station tell PM avoid not center factor.",
+      "promotion_recommendation": "No"
+    },
+    "E1024": {
+      "cycle": "2026-H1",
+      "employee_id": "E1024",
+      "overall_rating_numeric": 2.17,
+      "overall_rating_label": "Meets",
+      "competencies": {
+        "Impact": 3,
+        "Execution": 2,
+        "Collaboration": 2,
+        "Leadership": 2,
+        "Communication": 2,
+        "Growth Mindset": 2
+      },
+      "goals": [
+        {
+          "goal": "Significant center range response assume",
+          "status": "Completed"
+        },
+        {
+          "goal": "Other fight less base account us",
+          "status": "On Track"
+        }
+      ],
+      "manager_summary": "Country threat get rather deep pretty. Decision seek born view. Provide close TV political away set east.",
+      "employee_self_reflection": "Piece various career wrong media say. Bag population yes daughter consider send.",
+      "promotion_recommendation": "Consider"
+    },
+    "E1025": {
+      "cycle": "2026-H1",
+      "employee_id": "E1025",
+      "overall_rating_numeric": 3.17,
+      "overall_rating_label": "Exceeds",
+      "competencies": {
+        "Impact": 3,
+        "Execution": 2,
+        "Collaboration": 4,
+        "Leadership": 4,
+        "Communication": 3,
+        "Growth Mindset": 3
+      },
+      "goals": [
+        {
+          "goal": "Last change expert beyond new entire easy statement",
+          "status": "At Risk"
+        },
+        {
+          "goal": "Maintain kitchen hard human tax policy member material use",
+          "status": "On Track"
+        }
+      ],
+      "manager_summary": "Major theory against parent water. Become side stop way spring start candidate.",
+      "employee_self_reflection": "Institution doctor already measure go industry ability sort. Room throw concern establish citizen. Detail media administration tough idea right.",
+      "promotion_recommendation": "No"
+    },
+    "E1026": {
+      "cycle": "2026-H1",
+      "employee_id": "E1026",
+      "overall_rating_numeric": 2.67,
+      "overall_rating_label": "Exceeds",
+      "competencies": {
+        "Impact": 2,
+        "Execution": 2,
+        "Collaboration": 3,
+        "Leadership": 3,
+        "Communication": 3,
+        "Growth Mindset": 3
+      },
+      "goals": [
+        {
+          "goal": "Between message yet now sure quickly east else",
+          "status": "Completed"
+        },
+        {
+          "goal": "Concern sound force great ok religious her",
+          "status": "On Track"
+        }
+      ],
+      "manager_summary": "Doctor them east law. Ask positive western with company interview.",
+      "employee_self_reflection": "Often project course many last. Whatever run certain scene policy type series join.",
+      "promotion_recommendation": "No"
+    },
+    "E1027": {
+      "cycle": "2026-H1",
+      "employee_id": "E1027",
+      "overall_rating_numeric": 1.83,
+      "overall_rating_label": "Meets",
+      "competencies": {
+        "Impact": 3,
+        "Execution": 2,
+        "Collaboration": 2,
+        "Leadership": 1,
+        "Communication": 1,
+        "Growth Mindset": 2
+      },
+      "goals": [
+        {
+          "goal": "Than hard bank growth onto always stage",
+          "status": "Completed"
+        },
+        {
+          "goal": "Become give teacher stage mother anything benefit prepare car",
+          "status": "Completed"
+        }
+      ],
+      "manager_summary": "Protect ready wear something hospital piece. Serious notice experience size agent effort free. Stock onto protect seek across other participant.",
+      "employee_self_reflection": "International top particular style. Evening base here training ten.",
+      "promotion_recommendation": "No"
+    },
+    "E1028": {
+      "cycle": "2026-H1",
+      "employee_id": "E1028",
+      "overall_rating_numeric": 2.17,
+      "overall_rating_label": "Meets",
+      "competencies": {
+        "Impact": 2,
+        "Execution": 2,
+        "Collaboration": 2,
+        "Leadership": 3,
+        "Communication": 2,
+        "Growth Mindset": 2
+      },
+      "goals": [
+        {
+          "goal": "On finally ago describe room again husband",
+          "status": "On Track"
+        },
+        {
+          "goal": "Evidence drop job across current how leg nature",
+          "status": "On Track"
+        }
+      ],
+      "manager_summary": "Program near newspaper manager. New start tax table national sound key. Away story amount police expert north commercial teach.",
+      "employee_self_reflection": "Else less peace beat. Professional they need.",
+      "promotion_recommendation": "No"
+    },
+    "E1029": {
+      "cycle": "2026-H1",
+      "employee_id": "E1029",
+      "overall_rating_numeric": 2.0,
+      "overall_rating_label": "Meets",
+      "competencies": {
+        "Impact": 3,
+        "Execution": 2,
+        "Collaboration": 1,
+        "Leadership": 2,
+        "Communication": 3,
+        "Growth Mindset": 1
+      },
+      "goals": [
+        {
+          "goal": "Spring civil painting necessary family we",
+          "status": "At Risk"
+        },
+        {
+          "goal": "Fast soldier attorney son wish trial left one list",
+          "status": "On Track"
+        }
+      ],
+      "manager_summary": "Member available account option teacher. Walk majority wait one. Trouble effect return safe as respond right about.",
+      "employee_self_reflection": "Receive response between minute glass front service walk. Remember it particularly station color range government.",
+      "promotion_recommendation": "No"
+    },
+    "E1030": {
+      "cycle": "2026-H1",
+      "employee_id": "E1030",
+      "overall_rating_numeric": 1.33,
+      "overall_rating_label": "Needs Improvement",
+      "competencies": {
+        "Impact": 1,
+        "Execution": 1,
+        "Collaboration": 1,
+        "Leadership": 2,
+        "Communication": 1,
+        "Growth Mindset": 2
+      },
+      "goals": [
+        {
+          "goal": "Theory hit sea term great attack",
+          "status": "At Risk"
+        },
+        {
+          "goal": "Quite case home PM project",
+          "status": "Completed"
+        }
+      ],
+      "manager_summary": "Notice store writer pressure public school early future. Treat kid work ten team attorney.",
+      "employee_self_reflection": "Issue religious lead high.",
+      "promotion_recommendation": "No"
+    },
+    "E1031": {
+      "cycle": "2026-H1",
+      "employee_id": "E1031",
+      "overall_rating_numeric": 1.5,
+      "overall_rating_label": "Meets",
+      "competencies": {
+        "Impact": 2,
+        "Execution": 2,
+        "Collaboration": 1,
+        "Leadership": 1,
+        "Communication": 1,
+        "Growth Mindset": 2
+      },
+      "goals": [
+        {
+          "goal": "Opportunity add happy for for",
+          "status": "On Track"
+        },
+        {
+          "goal": "Career parent dog population oil threat article hard",
+          "status": "On Track"
+        }
+      ],
+      "manager_summary": "Pattern tough young fine. Value when office approach that.",
+      "employee_self_reflection": "Full card time American anything carry. Bill laugh maybe think. Wall authority myself term smile. Public through common admit once must site.",
+      "promotion_recommendation": "Yes"
+    },
+    "E1032": {
+      "cycle": "2026-H1",
+      "employee_id": "E1032",
+      "overall_rating_numeric": 1.83,
+      "overall_rating_label": "Meets",
+      "competencies": {
+        "Impact": 1,
+        "Execution": 3,
+        "Collaboration": 1,
+        "Leadership": 2,
+        "Communication": 2,
+        "Growth Mindset": 2
+      },
+      "goals": [
+        {
+          "goal": "Well talk deep travel fast drop third too",
+          "status": "At Risk"
+        },
+        {
+          "goal": "Trial nation college maintain but house",
+          "status": "Completed"
+        }
+      ],
+      "manager_summary": "Almost rock scientist add floor open. Approach deep today writer from rich man address.",
+      "employee_self_reflection": "Buy maybe economic theory first call would. Purpose hundred identify.",
+      "promotion_recommendation": "No"
+    },
+    "E1033": {
+      "cycle": "2026-H1",
+      "employee_id": "E1033",
+      "overall_rating_numeric": 2.17,
+      "overall_rating_label": "Meets",
+      "competencies": {
+        "Impact": 2,
+        "Execution": 2,
+        "Collaboration": 2,
+        "Leadership": 2,
+        "Communication": 3,
+        "Growth Mindset": 2
+      },
+      "goals": [
+        {
+          "goal": "Whole state police the",
+          "status": "At Risk"
+        },
+        {
+          "goal": "Government common accept maintain card think hand art defense",
+          "status": "On Track"
+        }
+      ],
+      "manager_summary": "Magazine wait account worker walk involve. Surface image trouble TV indicate beautiful.",
+      "employee_self_reflection": "Source discuss hour glass unit side buy. Test generation organization stay early voice charge. Late girl very audience specific audience certainly. Adult investment help threat floor bring.",
+      "promotion_recommendation": "No"
+    },
+    "E1034": {
+      "cycle": "2026-H1",
+      "employee_id": "E1034",
+      "overall_rating_numeric": 3.17,
+      "overall_rating_label": "Exceeds",
+      "competencies": {
+        "Impact": 3,
+        "Execution": 4,
+        "Collaboration": 3,
+        "Leadership": 3,
+        "Communication": 3,
+        "Growth Mindset": 3
+      },
+      "goals": [
+        {
+          "goal": "Long president while price bill he",
+          "status": "At Risk"
+        },
+        {
+          "goal": "Decade politics crime hear begin class material Mrs",
+          "status": "On Track"
+        }
+      ],
+      "manager_summary": "Other future money arrive eye. Lawyer court particular little. Project morning resource talk behavior. Whom admit its side get bank pass.",
+      "employee_self_reflection": "So wear option million. Improve paper movie according have state rise. Expect material best relate could report trial.",
+      "promotion_recommendation": "No"
+    },
+    "E1035": {
+      "cycle": "2026-H1",
+      "employee_id": "E1035",
+      "overall_rating_numeric": 2.17,
+      "overall_rating_label": "Meets",
+      "competencies": {
+        "Impact": 2,
+        "Execution": 3,
+        "Collaboration": 2,
+        "Leadership": 2,
+        "Communication": 1,
+        "Growth Mindset": 3
+      },
+      "goals": [
+        {
+          "goal": "Action right put",
+          "status": "On Track"
+        },
+        {
+          "goal": "Middle debate fund practice discussion tax economic be",
+          "status": "On Track"
+        }
+      ],
+      "manager_summary": "Hair hope far significant list. Character what option memory.",
+      "employee_self_reflection": "Close wait road audience clearly involve certain down. Both ask different expect according in process. Surface civil pay standard.",
+      "promotion_recommendation": "No"
+    },
+    "E1036": {
+      "cycle": "2026-H1",
+      "employee_id": "E1036",
+      "overall_rating_numeric": 2.0,
+      "overall_rating_label": "Meets",
+      "competencies": {
+        "Impact": 2,
+        "Execution": 2,
+        "Collaboration": 2,
+        "Leadership": 2,
+        "Communication": 2,
+        "Growth Mindset": 2
+      },
+      "goals": [
+        {
+          "goal": "Look film response tree scene",
+          "status": "At Risk"
+        },
+        {
+          "goal": "Step whom author however cover",
+          "status": "On Track"
+        }
+      ],
+      "manager_summary": "Hair question day teacher. Behind miss follow speak actually energy challenge.",
+      "employee_self_reflection": "Through white wide artist type mission. Employee way wife music capital issue form. Season rock those character rest feel carry someone.",
+      "promotion_recommendation": "No"
+    },
+    "E1037": {
+      "cycle": "2026-H1",
+      "employee_id": "E1037",
+      "overall_rating_numeric": 2.83,
+      "overall_rating_label": "Exceeds",
+      "competencies": {
+        "Impact": 3,
+        "Execution": 3,
+        "Collaboration": 3,
+        "Leadership": 3,
+        "Communication": 3,
+        "Growth Mindset": 2
+      },
+      "goals": [
+        {
+          "goal": "Your yard reality change year girl fire cost",
+          "status": "On Track"
+        },
+        {
+          "goal": "Out young simple magazine science president",
+          "status": "On Track"
+        }
+      ],
+      "manager_summary": "Soon pressure thing effect center seem. After more impact road. Store leave need kind reveal herself.",
+      "employee_self_reflection": "Box well show toward part world exactly. Nature energy relationship.",
+      "promotion_recommendation": "No"
+    },
+    "E1038": {
+      "cycle": "2026-H1",
+      "employee_id": "E1038",
+      "overall_rating_numeric": 3.17,
+      "overall_rating_label": "Exceeds",
+      "competencies": {
+        "Impact": 3,
+        "Execution": 3,
+        "Collaboration": 3,
+        "Leadership": 3,
+        "Communication": 3,
+        "Growth Mindset": 4
+      },
+      "goals": [
+        {
+          "goal": "Catch area process lawyer shake",
+          "status": "At Risk"
+        },
+        {
+          "goal": "Blue fast behind administration country method practice",
+          "status": "On Track"
+        }
+      ],
+      "manager_summary": "Sort mean politics instead although. Would bag country school order quality kid. Special cold edge sort.",
+      "employee_self_reflection": "Available cut no voice writer need rate. Natural of maybe contain policy also.",
+      "promotion_recommendation": "Consider"
+    },
+    "E1039": {
+      "cycle": "2026-H1",
+      "employee_id": "E1039",
+      "overall_rating_numeric": 2.33,
+      "overall_rating_label": "Meets",
+      "competencies": {
+        "Impact": 3,
+        "Execution": 2,
+        "Collaboration": 2,
+        "Leadership": 3,
+        "Communication": 2,
+        "Growth Mindset": 2
+      },
+      "goals": [
+        {
+          "goal": "Congress green series candidate training close positive",
+          "status": "Completed"
+        },
+        {
+          "goal": "Discussion adult spend ground certainly administration good single specific",
+          "status": "Completed"
+        }
+      ],
+      "manager_summary": "One final protect smile man whose. Us letter daughter community dark model. Cause who successful south time million.",
+      "employee_self_reflection": "Customer join safe upon decision. Important value protect professional.",
+      "promotion_recommendation": "No"
+    },
+    "E1040": {
+      "cycle": "2026-H1",
+      "employee_id": "E1040",
+      "overall_rating_numeric": 2.5,
+      "overall_rating_label": "Meets",
+      "competencies": {
+        "Impact": 3,
+        "Execution": 2,
+        "Collaboration": 3,
+        "Leadership": 2,
+        "Communication": 3,
+        "Growth Mindset": 2
+      },
+      "goals": [
+        {
+          "goal": "Main trouble condition resource each",
+          "status": "At Risk"
+        },
+        {
+          "goal": "Who cold watch PM world person view member home",
+          "status": "On Track"
+        }
+      ],
+      "manager_summary": "Identify study art performance whom and between. Ball level their activity speak upon. The ask town value.",
+      "employee_self_reflection": "Little together agent study. Far theory individual report.",
+      "promotion_recommendation": "No"
+    },
+    "E1041": {
+      "cycle": "2026-H1",
+      "employee_id": "E1041",
+      "overall_rating_numeric": 1.83,
+      "overall_rating_label": "Meets",
+      "competencies": {
+        "Impact": 2,
+        "Execution": 3,
+        "Collaboration": 1,
+        "Leadership": 2,
+        "Communication": 1,
+        "Growth Mindset": 2
+      },
+      "goals": [
+        {
+          "goal": "Since perhaps affect despite",
+          "status": "At Risk"
+        },
+        {
+          "goal": "Focus ball western body ask father vote situation draw",
+          "status": "Completed"
+        }
+      ],
+      "manager_summary": "Picture vote rather record. Investment feeling board player various five again. Role table other rest somebody office.",
+      "employee_self_reflection": "Church prepare night amount science month century bar. Term several table head word career. Couple charge subject cause executive direction total out.",
+      "promotion_recommendation": "No"
+    },
+    "E1042": {
+      "cycle": "2026-H1",
+      "employee_id": "E1042",
+      "overall_rating_numeric": 2.0,
+      "overall_rating_label": "Meets",
+      "competencies": {
+        "Impact": 2,
+        "Execution": 3,
+        "Collaboration": 2,
+        "Leadership": 2,
+        "Communication": 1,
+        "Growth Mindset": 2
+      },
+      "goals": [
+        {
+          "goal": "Form two certainly item",
+          "status": "Completed"
+        },
+        {
+          "goal": "Station crime dog respond",
+          "status": "Completed"
+        }
+      ],
+      "manager_summary": "Job painting everything. Senior option employee knowledge material something.",
+      "employee_self_reflection": "Population share have on attack certain put. Accept wonder new person girl nature kid. Better off woman team point season challenge. When pick country film no they special.",
+      "promotion_recommendation": "No"
+    },
+    "E1043": {
+      "cycle": "2026-H1",
+      "employee_id": "E1043",
+      "overall_rating_numeric": 2.0,
+      "overall_rating_label": "Meets",
+      "competencies": {
+        "Impact": 2,
+        "Execution": 1,
+        "Collaboration": 3,
+        "Leadership": 2,
+        "Communication": 2,
+        "Growth Mindset": 2
+      },
+      "goals": [
+        {
+          "goal": "Worker positive move director",
+          "status": "On Track"
+        },
+        {
+          "goal": "Try term wife old",
+          "status": "On Track"
+        }
+      ],
+      "manager_summary": "You environment theory including. Myself process forward cost throughout certain.",
+      "employee_self_reflection": "Employee reduce wind feeling animal. Check successful response car service themselves happy.",
+      "promotion_recommendation": "No"
+    },
+    "E1044": {
+      "cycle": "2026-H1",
+      "employee_id": "E1044",
+      "overall_rating_numeric": 2.83,
+      "overall_rating_label": "Exceeds",
+      "competencies": {
+        "Impact": 2,
+        "Execution": 4,
+        "Collaboration": 4,
+        "Leadership": 2,
+        "Communication": 3,
+        "Growth Mindset": 2
+      },
+      "goals": [
+        {
+          "goal": "Three group citizen nothing business condition",
+          "status": "On Track"
+        },
+        {
+          "goal": "Event record bad employee I deal month hard effect",
+          "status": "Completed"
+        }
+      ],
+      "manager_summary": "She police yourself agreement. Magazine mind outside it probably suddenly bank fund. Consumer prepare type entire low scientist color.",
+      "employee_self_reflection": "Fact thought gun. Own financial happen our. Defense shoulder must international notice thus now.",
+      "promotion_recommendation": "Yes"
+    },
+    "E1045": {
+      "cycle": "2026-H1",
+      "employee_id": "E1045",
+      "overall_rating_numeric": 2.17,
+      "overall_rating_label": "Meets",
+      "competencies": {
+        "Impact": 3,
+        "Execution": 2,
+        "Collaboration": 1,
+        "Leadership": 3,
+        "Communication": 2,
+        "Growth Mindset": 2
+      },
+      "goals": [
+        {
+          "goal": "Room candidate network might",
+          "status": "At Risk"
+        },
+        {
+          "goal": "Throw level citizen analysis notice strategy yes",
+          "status": "On Track"
+        }
+      ],
+      "manager_summary": "Mouth statement sport TV three lot not. Several the threat majority significant. Tv win current lead choose level day me. Create education according record simple.",
+      "employee_self_reflection": "Green ask party rule future information. Just name bag some believe guess. Where question hospital business action hospital only. Daughter wide help wait actually this wonder.",
+      "promotion_recommendation": "Consider"
+    },
+    "E1046": {
+      "cycle": "2026-H1",
+      "employee_id": "E1046",
+      "overall_rating_numeric": 1.67,
+      "overall_rating_label": "Meets",
+      "competencies": {
+        "Impact": 1,
+        "Execution": 2,
+        "Collaboration": 2,
+        "Leadership": 2,
+        "Communication": 2,
+        "Growth Mindset": 1
+      },
+      "goals": [
+        {
+          "goal": "Responsibility create everyone bank kitchen car or",
+          "status": "Completed"
+        },
+        {
+          "goal": "I partner right arm oil",
+          "status": "Completed"
+        }
+      ],
+      "manager_summary": "Stock item term service. Sense tree western law you daughter. Many night receive minute and more sit.",
+      "employee_self_reflection": "Wear spring term radio include which throw.",
+      "promotion_recommendation": "No"
+    },
+    "E1047": {
+      "cycle": "2026-H1",
+      "employee_id": "E1047",
+      "overall_rating_numeric": 2.5,
+      "overall_rating_label": "Meets",
+      "competencies": {
+        "Impact": 3,
+        "Execution": 3,
+        "Collaboration": 2,
+        "Leadership": 2,
+        "Communication": 2,
+        "Growth Mindset": 3
+      },
+      "goals": [
+        {
+          "goal": "Hot quickly probably on work effect one force",
+          "status": "At Risk"
+        },
+        {
+          "goal": "Seven voice quite morning",
+          "status": "On Track"
+        }
+      ],
+      "manager_summary": "Maintain heart car soon court brother light. Design plan he suggest quickly poor report.",
+      "employee_self_reflection": "Would themselves before show another focus hard. Structure public popular teach happen. First chance radio company theory energy not.",
+      "promotion_recommendation": "No"
+    },
+    "E1048": {
+      "cycle": "2026-H1",
+      "employee_id": "E1048",
+      "overall_rating_numeric": 2.33,
+      "overall_rating_label": "Meets",
+      "competencies": {
+        "Impact": 2,
+        "Execution": 3,
+        "Collaboration": 2,
+        "Leadership": 3,
+        "Communication": 2,
+        "Growth Mindset": 2
+      },
+      "goals": [
+        {
+          "goal": "Work stage analysis including",
+          "status": "At Risk"
+        },
+        {
+          "goal": "Wife education number save still beyond room shake",
+          "status": "On Track"
+        }
+      ],
+      "manager_summary": "Of common newspaper surface particularly senior sister.",
+      "employee_self_reflection": "Address dark painting decision old Mr nation along. Determine memory law feel toward. Try fly difficult discussion generation benefit bar.",
+      "promotion_recommendation": "No"
+    },
+    "E1049": {
+      "cycle": "2026-H1",
+      "employee_id": "E1049",
+      "overall_rating_numeric": 2.5,
+      "overall_rating_label": "Meets",
+      "competencies": {
+        "Impact": 3,
+        "Execution": 3,
+        "Collaboration": 2,
+        "Leadership": 2,
+        "Communication": 3,
+        "Growth Mindset": 2
+      },
+      "goals": [
+        {
+          "goal": "Woman itself around store occur future letter ready",
+          "status": "At Risk"
+        },
+        {
+          "goal": "Before important beyond pull seem",
+          "status": "Completed"
+        }
+      ],
+      "manager_summary": "Boy west whatever role.",
+      "employee_self_reflection": "Media yourself fast the perform loss. Sister central to example police someone person.",
+      "promotion_recommendation": "No"
+    }
+  }
+}

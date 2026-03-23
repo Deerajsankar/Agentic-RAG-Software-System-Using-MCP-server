@@ -1,0 +1,29 @@
+{
+  "users": {
+    "new.director@examplecorp.com": {
+      "email": "new.director@examplecorp.com",
+      "password_hash": "scrypt:32768:8:1$oxniV5zO9ccnzMgh$2abe184b92d8cd09af305b5befafd87afe4718cfe90092f92064716f69285a5ee07d504613d2ff3547cc68ee57c1ea504e2f7fdcb371f0d6ae070ab4ac8d5c30",
+      "created_at": "2026-03-17T14:41:11.400383+00:00"
+    },
+    "demo.engineer@examplecorp.com": {
+      "email": "demo.engineer@examplecorp.com",
+      "password_hash": "scrypt:32768:8:1$YXf0RSVBM9BpnfcI$12ea673eb90df46bc0e68ae365c4a04685ce21acc0cbf5fcd3a731ec310812a45f530a023c20424395e2d67f353493e9dd6a5529a5f62246b509b1737442cebb",
+      "created_at": "2026-03-17T15:05:10.243761+00:00"
+    },
+    "paul.turner@examplecorp.com": {
+      "email": "paul.turner@examplecorp.com",
+      "password_hash": "scrypt:32768:8:1$C832oeMx9GfU47nj$f3de4d22a1d1f06a95c1e3d4496d81ed62d45c8dda6c39ee9f06ac6416f1aabec8ce9dd6654488292b5c1a5e718cdff87a35a934807c089f432779b01a073c00",
+      "created_at": "2026-03-20T09:25:44.369377+00:00"
+    },
+    "deeraj@examplecorp.com": {
+      "email": "deeraj@examplecorp.com",
+      "password_hash": "scrypt:32768:8:1$r59SNOjsKylVnQ25$f379709ff08e0523d89461c2441f22c4837eba46c059e31f6a6368aa9b75269cd6435b78846ee356e7c2ba2f9f95cc7099cc9e664a00febbf0c7948fc5bb4564",
+      "created_at": "2026-03-23T07:53:49.931104+00:00"
+    },
+    "andrea.smith@examplecorp.com": {
+      "email": "andrea.smith@examplecorp.com",
+      "password_hash": "scrypt:32768:8:1$q0fu81DvWyOzQT51$1bde418ce2c6768b3cf992b787341ff17b7f71758416cd39bfa30bd3237a698cee4c62353e4279ae8f8df9f47028343a6bdd37635a99e49b754d5d0e87f9807a",
+      "created_at": "2026-03-23T15:21:59.881397+00:00"
+    }
+  }
+}

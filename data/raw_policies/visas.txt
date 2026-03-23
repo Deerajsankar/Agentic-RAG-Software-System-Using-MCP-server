@@ -1,0 +1,185 @@
+# ExampleCorp Immigration, Visas, and Global Mobility Policy (Enterprise Edition)
+
+**Effective date:** 2026-03-17  
+**Document owner:** Global Mobility (People Ops) + Legal (Immigration Counsel)  
+**Applies to:** Employees, candidates, interns (where applicable), and managers initiating cross-border moves  
+
+> This policy provides detailed governance for work authorization, international assignments, business travel, and cross-border remote work. It is not legal advice; however, it defines **mandatory company process**. Employees must follow the process even when local law would allow more flexibility, unless the process is legally prohibited.
+
+---
+
+# 1. Core principles and risk categories
+
+## 1.1 Why this policy is strict
+Immigration noncompliance can create:
+- Fines and sanctions for the company and individual
+- Deportation or entry bans
+- Tax/payroll violations
+- Customer contract breaches (location and export-control clauses)
+
+## 1.2 Definitions
+| Term | Meaning |
+|---|---|
+| **Work authorization** | Legal permission to perform work in a jurisdiction |
+| **Business travel** | Short-term travel for meetings/training without productive work (definition varies by country) |
+| **Assignment** | Temporary relocation with payroll/host entity implications |
+| **Cross-border remote work** | Working while physically located outside the employee’s authorized work country |
+
+---
+
+# 2. Pre-approval requirements (non-negotiable)
+
+## 2.1 Activities requiring Mobility approval
+Approval is required before:
+1. Any cross-border work beyond **10 business days** in a rolling 90-day period
+2. Any relocation to a different country (permanent or temporary)
+3. Any assignment where payroll may shift or a host entity is involved
+4. Any role that touches **export-controlled** technology or restricted customer data in a new location
+
+## 2.2 What is not allowed without exception approval
+- Working from sanctioned or embargoed territories
+- “Visa runs” or repeated border entries to avoid immigration rules
+- Performing productive work on a visitor status where prohibited
+
+---
+
+# 3. Candidate and employee work authorization workflows
+
+## 3.1 Hiring candidates who require sponsorship
+Managers must:
+- Flag sponsorship needs early in the requisition
+- Use approved immigration counsel
+- Avoid making timeline promises (visa processing is unpredictable)
+
+**Minimum documentation controls:**
+- Identity and qualification documents collected securely
+- No emailing passports/IDs to personal emails or unapproved tools
+- Case tracking in the Mobility system
+
+## 3.2 Extensions, renewals, and maintenance
+Employees must:
+- Respond to counsel requests within **5 business days**
+- Notify Mobility immediately of:
+  - Address changes (where legally required)
+  - Passport renewals/expirations
+  - Arrests/convictions (where relevant to immigration status)
+
+**Edge case:** If an employee delays providing required documents and status lapses, system access may be suspended until resolved.
+
+---
+
+# 4. Business travel policy (enterprise controls)
+
+## 4.1 Business travel vs. work (practical guidance)
+Many countries allow meetings, conferences, or training on visitor status but prohibit hands-on productive work. The line is nuanced.
+
+Examples typically treated as **business travel** (country-dependent):
+- Attending meetings, planning sessions, conferences
+- Receiving training (not delivering paid services)
+
+Examples likely treated as **work**:
+- Hands-on engineering work for a local entity
+- On-site client delivery work
+- Performing services that displace local labor
+
+## 4.2 Travel pre-check requirements
+Before international travel, employees must complete:
+1. Mobility pre-check form (destination, dates, purpose)
+2. Security review if traveling with Confidential+ data
+3. Export control screening if role/project is restricted
+
+## 4.3 High-risk destinations
+Some destinations require:
+- Burner device policy
+- Additional encryption controls
+- Pre-approval for carrying certain data or tools
+
+---
+
+# 5. Cross-border remote work (the “digital nomad” problem)
+
+## 5.1 Default rule
+Employees may not work outside their authorized work country without Mobility approval.
+
+## 5.2 Common edge cases
+1. **“I’m visiting family for 3 weeks and will keep working.”**  
+   - Requires approval if it exceeds the threshold or triggers local risk.
+2. **“I have citizenship in the destination country.”**  
+   - Still requires approval due to payroll/tax/export-control risk.
+3. **“I’ll only check email.”**  
+   - Even limited work can create a permanent establishment or immigration risk.
+
+## 5.3 Consequences of noncompliance
+Violations may result in:
+- Mandatory return to home country
+- Disciplinary action
+- Visa case impact and potential termination (depending on severity)
+
+---
+
+# 6. Assignments, transfers, and relocation governance
+
+## 6.1 Assignment categories
+| Category | Typical duration | Common controls |
+|---|---:|---|
+| Short-term assignment | 1–6 months | Housing support, limited payroll changes |
+| Long-term assignment | 6–24 months | Host-country payroll, tax equalization |
+| Permanent transfer | 24+ months | New employment terms, entity transfer |
+
+## 6.2 Cost governance
+- All relocation packages require a pre-approved budget.
+- Exceptions require VP-level approval plus Finance signoff.
+
+## 6.3 Repayment agreements (clawbacks)
+Relocation benefits may be subject to repayment if the employee resigns within a defined period.
+
+| Benefit type | Repayment window | Typical repayment method |
+|---|---:|---|
+| Relocation lump sum | 12 months | Pro-rated payroll deduction |
+| Immigration fees | 24 months (where lawful) | Pro-rated repayment |
+
+**Edge case:** Repayment clauses must comply with local labor law; some jurisdictions restrict deductions.
+
+---
+
+# 7. Data protection, export controls, and access limitations
+
+## 7.1 Data handling while traveling
+- Do not access HR or Highly Confidential systems from unsecured networks without VPN and device compliance.
+- Use minimum data; avoid downloading large datasets.
+
+## 7.2 Export control screening
+Some projects/technologies cannot be accessed from certain locations or by certain individuals.
+- Mobility + Legal + Security will determine restrictions.
+- Attempts to bypass geo-controls are a policy violation.
+
+---
+
+# 8. Roles and responsibilities
+
+## 8.1 Employee responsibilities
+- Provide truthful information and complete requested forms promptly
+- Maintain valid travel documents
+- Follow approved itineraries for work-related travel
+
+## 8.2 Manager responsibilities
+- Avoid informal approvals (“sure, just work from there”)
+- Plan staffing to account for immigration timelines
+- Escalate high-risk travel or relocation requests early
+
+## 8.3 Mobility and Legal responsibilities
+- Maintain approved counsel relationships
+- Track cases, deadlines, and compliance evidence
+- Provide documented guidance and approvals/denials
+
+---
+
+# 9. Quick-reference decision table
+
+| Scenario | Mobility approval required? | Notes |
+|---|---:|---|
+| 3-day conference abroad (no work) | Usually | Depends on destination and role |
+| Working abroad for 2 weeks | Often | Threshold and risk-based review |
+| Permanent move to another country | Yes | Always |
+| Carrying customer data across border | Yes | Security review required |
+

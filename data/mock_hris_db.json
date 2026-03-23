@@ -1,0 +1,1887 @@
+{
+  "meta": {
+    "generated_at": "1983-10-09T09:50:09",
+    "seed": 1337,
+    "employee_count": 52,
+    "last_updated_at": "2026-03-17T14:47:18.929918+00:00"
+  },
+  "employees": [
+    {
+      "employee_id": "E1000",
+      "full_name": "Aarav Kapoor",
+      "preferred_name": "Aarav",
+      "email": "ceo@examplecorp.com",
+      "phone": "+1-503-231-4379x50956",
+      "job_title": "CEO",
+      "department": "Executive",
+      "manager_employee_id": null,
+      "office_location": "Remote - US",
+      "hire_date": "2024-03-03",
+      "employment_status": "Active",
+      "clearance_level": 5,
+      "salary_usd": 650000,
+      "salary_grade": "D1",
+      "pay_type": "Salary",
+      "pto_hours_balance": 34.9,
+      "pto_hours_accrual_per_pay_period": 10.0,
+      "pto_policy": "Executive",
+      "equipment": {
+        "laptop": {
+          "model": "Apple MacBook Pro 14",
+          "serial": "MBP-16618566",
+          "assigned": true
+        },
+        "phone": {
+          "model": "Pixel 9",
+          "serial": "PX-89901690",
+          "assigned": true
+        },
+        "accessories": [
+          "External Monitor",
+          "Mouse",
+          "Security Key"
+        ]
+      }
+    },
+    {
+      "employee_id": "E1001",
+      "full_name": "Deeraj",
+      "preferred_name": "Deeraj",
+      "email": "deeraj@examplecorp.com",
+      "phone": "+1-875-861-3594x3327",
+      "job_title": "HR Business Partner",
+      "department": "People Ops",
+      "manager_employee_id": "E1000",
+      "office_location": "London",
+      "hire_date": "2017-11-03",
+      "employment_status": "Active",
+      "clearance_level": 1,
+      "salary_usd": 95000,
+      "salary_grade": "B1",
+      "pay_type": "Salary",
+      "pto_hours_balance": 69.8,
+      "pto_hours_accrual_per_pay_period": 6.15,
+      "pto_policy": "Standard",
+      "equipment": {
+        "laptop": {
+          "model": "Dell Latitude 7440",
+          "serial": "DL-92888207",
+          "assigned": true
+        },
+        "phone": {
+          "model": "None",
+          "serial": null,
+          "assigned": false
+        },
+        "accessories": [
+          "Mouse",
+          "External Monitor",
+          "Security Key"
+        ]
+      }
+    },
+    {
+      "employee_id": "E1002",
+      "full_name": "Caitlin Dawson",
+      "preferred_name": null,
+      "email": "caitlin.dawson@examplecorp.com",
+      "phone": "(520)789-6371x3407",
+      "job_title": "Financial Analyst",
+      "department": "Sales",
+      "manager_employee_id": "E1031",
+      "office_location": "Bengaluru",
+      "hire_date": "2019-11-19",
+      "employment_status": "Active",
+      "clearance_level": 2,
+      "salary_usd": 76073,
+      "salary_grade": "C1",
+      "pay_type": "Hourly",
+      "pto_hours_balance": 47.0,
+      "pto_hours_accrual_per_pay_period": 7.7,
+      "pto_policy": "Enhanced",
+      "equipment": {
+        "laptop": {
+          "model": "Dell Latitude 7440",
+          "serial": "DL-69396279",
+          "assigned": true
+        },
+        "phone": {
+          "model": "Pixel 9",
+          "serial": "PX-70514789",
+          "assigned": true
+        },
+        "accessories": [
+          "Mouse",
+          "Ergonomic Keyboard",
+          "Security Key"
+        ]
+      }
+    },
+    {
+      "employee_id": "E1003",
+      "full_name": "Tanya Carpenter",
+      "preferred_name": null,
+      "email": "tanya.carpenter@examplecorp.com",
+      "phone": "(886)799-3063",
+      "job_title": "Account Executive",
+      "department": "Product",
+      "manager_employee_id": "E1009",
+      "office_location": "Bengaluru",
+      "hire_date": "2015-12-16",
+      "employment_status": "Active",
+      "clearance_level": 1,
+      "salary_usd": 151815,
+      "salary_grade": "A1",
+      "pay_type": "Salary",
+      "pto_hours_balance": 145.3,
+      "pto_hours_accrual_per_pay_period": 10.0,
+      "pto_policy": "Executive",
+      "equipment": {
+        "laptop": {
+          "model": "Dell Latitude 7440",
+          "serial": "DL-28908740",
+          "assigned": true
+        },
+        "phone": {
+          "model": "None",
+          "serial": null,
+          "assigned": false
+        },
+        "accessories": [
+          "Mouse"
+        ]
+      }
+    },
+    {
+      "employee_id": "E1004",
+      "full_name": "Julia Garner",
+      "preferred_name": null,
+      "email": "julia.garner@examplecorp.com",
+      "phone": "323.516.3188x2639",
+      "job_title": "Senior Software Engineer",
+      "department": "People Ops",
+      "manager_employee_id": "E1020",
+      "office_location": "Hyderabad",
+      "hire_date": "2015-06-19",
+      "employment_status": "Active",
+      "clearance_level": 1,
+      "salary_usd": 254253,
+      "salary_grade": "C2",
+      "pay_type": "Hourly",
+      "pto_hours_balance": 57.1,
+      "pto_hours_accrual_per_pay_period": 10.0,
+      "pto_policy": "Executive",
+      "equipment": {
+        "laptop": {
+          "model": "Lenovo ThinkPad X1 Carbon",
+          "serial": "TP-88420647",
+          "assigned": true
+        },
+        "phone": {
+          "model": "Pixel 9",
+          "serial": "PX-56966720",
+          "assigned": true
+        },
+        "accessories": [
+          "Ergonomic Keyboard",
+          "Headset"
+        ]
+      }
+    },
+    {
+      "employee_id": "E1005",
+      "full_name": "Jessica Coleman",
+      "preferred_name": null,
+      "email": "jessica.coleman@examplecorp.com",
+      "phone": "001-855-402-2139",
+      "job_title": "HR Business Partner",
+      "department": "IT",
+      "manager_employee_id": "E1018",
+      "office_location": "London",
+      "hire_date": "2023-02-07",
+      "employment_status": "Active",
+      "clearance_level": 2,
+      "salary_usd": 278677,
+      "salary_grade": "D1",
+      "pay_type": "Hourly",
+      "pto_hours_balance": 101.7,
+      "pto_hours_accrual_per_pay_period": 6.15,
+      "pto_policy": "Standard",
+      "equipment": {
+        "laptop": {
+          "model": "Dell Latitude 7440",
+          "serial": "DL-84154075",
+          "assigned": true
+        },
+        "phone": {
+          "model": "None",
+          "serial": null,
+          "assigned": false
+        },
+        "accessories": [
+          "Ergonomic Keyboard",
+          "Headset",
+          "Dock"
+        ]
+      }
+    },
+    {
+      "employee_id": "E1006",
+      "full_name": "Matthew Baker",
+      "preferred_name": null,
+      "email": "matthew.baker@examplecorp.com",
+      "phone": "001-238-603-1485x454",
+      "job_title": "Sales Manager",
+      "department": "Customer Success",
+      "manager_employee_id": "E1000",
+      "office_location": "Bengaluru",
+      "hire_date": "2022-06-12",
+      "employment_status": "Active",
+      "clearance_level": 1,
+      "salary_usd": 242179,
+      "salary_grade": "C1",
+      "pay_type": "Hourly",
+      "pto_hours_balance": 119.3,
+      "pto_hours_accrual_per_pay_period": 10.0,
+      "pto_policy": "Executive",
+      "equipment": {
+        "laptop": {
+          "model": "Apple MacBook Pro 14",
+          "serial": "MBP-48147421",
+          "assigned": true
+        },
+        "phone": {
+          "model": "None",
+          "serial": null,
+          "assigned": false
+        },
+        "accessories": [
+          "Ergonomic Keyboard",
+          "External Monitor",
+          "Mouse"
+        ]
+      }
+    },
+    {
+      "employee_id": "E1007",
+      "full_name": "Gerald Davis",
+      "preferred_name": null,
+      "email": "gerald.davis@examplecorp.com",
+      "phone": "452-749-4841x192",
+      "job_title": "CEO",
+      "department": "Engineering",
+      "manager_employee_id": "E1020",
+      "office_location": "Hyderabad",
+      "hire_date": "2023-05-30",
+      "employment_status": "Active",
+      "clearance_level": 2,
+      "salary_usd": 450592,
+      "salary_grade": "D1",
+      "pay_type": "Salary",
+      "pto_hours_balance": 152.9,
+      "pto_hours_accrual_per_pay_period": 7.7,
+      "pto_policy": "Enhanced",
+      "equipment": {
+        "laptop": {
+          "model": "Apple MacBook Pro 14",
+          "serial": "MBP-67795296",
+          "assigned": true
+        },
+        "phone": {
+          "model": "iPhone 15",
+          "serial": "IP-43879969",
+          "assigned": true
+        },
+        "accessories": [
+          "Headset",
+          "Security Key",
+          "External Monitor"
+        ]
+      }
+    },
+    {
+      "employee_id": "E1008",
+      "full_name": "Betty Martinez",
+      "preferred_name": null,
+      "email": "betty.martinez@examplecorp.com",
+      "phone": "+1-565-920-8961x666",
+      "job_title": "Product Manager",
+      "department": "Executive",
+      "manager_employee_id": "E1000",
+      "office_location": "Pune",
+      "hire_date": "2016-10-20",
+      "employment_status": "Active",
+      "clearance_level": 3,
+      "salary_usd": 211178,
+      "salary_grade": "A1",
+      "pay_type": "Salary",
+      "pto_hours_balance": 62.1,
+      "pto_hours_accrual_per_pay_period": 10.0,
+      "pto_policy": "Executive",
+      "equipment": {
+        "laptop": {
+          "model": "Dell Latitude 7440",
+          "serial": "DL-86568041",
+          "assigned": true
+        },
+        "phone": {
+          "model": "iPhone 15",
+          "serial": "IP-09890952",
+          "assigned": true
+        },
+        "accessories": [
+          "Mouse",
+          "Ergonomic Keyboard"
+        ]
+      }
+    },
+    {
+      "employee_id": "E1009",
+      "full_name": "Andrea Smith",
+      "preferred_name": null,
+      "email": "andrea.smith@examplecorp.com",
+      "phone": "+1-489-903-7827x449",
+      "job_title": "Sales Manager",
+      "department": "Engineering",
+      "manager_employee_id": "E1031",
+      "office_location": "Remote - India",
+      "hire_date": "2023-01-05",
+      "employment_status": "Active",
+      "clearance_level": 3,
+      "salary_usd": 111288,
+      "salary_grade": "C1",
+      "pay_type": "Hourly",
+      "pto_hours_balance": 43.2,
+      "pto_hours_accrual_per_pay_period": 6.15,
+      "pto_policy": "Standard",
+      "equipment": {
+        "laptop": {
+          "model": "Apple MacBook Pro 14",
+          "serial": "MBP-21084570",
+          "assigned": true
+        },
+        "phone": {
+          "model": "Pixel 9",
+          "serial": "PX-47280576",
+          "assigned": true
+        },
+        "accessories": [
+          "Headset",
+          "Ergonomic Keyboard",
+          "Security Key"
+        ]
+      }
+    },
+    {
+      "employee_id": "E1010",
+      "full_name": "Elizabeth Foster",
+      "preferred_name": null,
+      "email": "elizabeth.foster@examplecorp.com",
+      "phone": "+1-439-705-8789x03185",
+      "job_title": "Marketing Manager",
+      "department": "Legal",
+      "manager_employee_id": "E1020",
+      "office_location": "London",
+      "hire_date": "2022-02-16",
+      "employment_status": "Active",
+      "clearance_level": 2,
+      "salary_usd": 52926,
+      "salary_grade": "A1",
+      "pay_type": "Hourly",
+      "pto_hours_balance": 100.0,
+      "pto_hours_accrual_per_pay_period": 10.0,
+      "pto_policy": "Executive",
+      "equipment": {
+        "laptop": {
+          "model": "Lenovo ThinkPad X1 Carbon",
+          "serial": "TP-54273517",
+          "assigned": true
+        },
+        "phone": {
+          "model": "Pixel 9",
+          "serial": "PX-86961002",
+          "assigned": true
+        },
+        "accessories": [
+          "Ergonomic Keyboard",
+          "External Monitor"
+        ]
+      }
+    },
+    {
+      "employee_id": "E1011",
+      "full_name": "Ms. Vanessa Nelson DDS",
+      "preferred_name": null,
+      "email": "ms.dds@examplecorp.com",
+      "phone": "(658)985-7726",
+      "job_title": "Engineering Manager",
+      "department": "Marketing",
+      "manager_employee_id": "E1031",
+      "office_location": "Pune",
+      "hire_date": "2022-01-01",
+      "employment_status": "Active",
+      "clearance_level": 1,
+      "salary_usd": 144367,
+      "salary_grade": "C1",
+      "pay_type": "Hourly",
+      "pto_hours_balance": 67.0,
+      "pto_hours_accrual_per_pay_period": 10.0,
+      "pto_policy": "Executive",
+      "equipment": {
+        "laptop": {
+          "model": "Lenovo ThinkPad X1 Carbon",
+          "serial": "TP-82541248",
+          "assigned": true
+        },
+        "phone": {
+          "model": "Pixel 9",
+          "serial": "PX-44619884",
+          "assigned": true
+        },
+        "accessories": [
+          "Headset",
+          "Security Key",
+          "Dock"
+        ]
+      }
+    },
+    {
+      "employee_id": "E1012",
+      "full_name": "Teresa Anderson",
+      "preferred_name": null,
+      "email": "teresa.anderson@examplecorp.com",
+      "phone": "+1-748-276-0445x02851",
+      "job_title": "Software Engineer",
+      "department": "Executive",
+      "manager_employee_id": "E1000",
+      "office_location": "Bengaluru",
+      "hire_date": "2019-02-01",
+      "employment_status": "Active",
+      "clearance_level": 3,
+      "salary_usd": 183192,
+      "salary_grade": "B2",
+      "pay_type": "Hourly",
+      "pto_hours_balance": 146.2,
+      "pto_hours_accrual_per_pay_period": 10.0,
+      "pto_policy": "Executive",
+      "equipment": {
+        "laptop": {
+          "model": "Dell Latitude 7440",
+          "serial": "DL-50995714",
+          "assigned": true
+        },
+        "phone": {
+          "model": "iPhone 15",
+          "serial": "IP-05738579",
+          "assigned": true
+        },
+        "accessories": [
+          "Ergonomic Keyboard",
+          "Security Key",
+          "Headset"
+        ]
+      }
+    },
+    {
+      "employee_id": "E1013",
+      "full_name": "Ann Schaefer",
+      "preferred_name": null,
+      "email": "ann.schaefer@examplecorp.com",
+      "phone": "566-957-1741x75850",
+      "job_title": "Senior Software Engineer",
+      "department": "Product",
+      "manager_employee_id": "E1031",
+      "office_location": "Bengaluru",
+      "hire_date": "2022-11-07",
+      "employment_status": "Active",
+      "clearance_level": 2,
+      "salary_usd": 232952,
+      "salary_grade": "D1",
+      "pay_type": "Hourly",
+      "pto_hours_balance": 63.3,
+      "pto_hours_accrual_per_pay_period": 6.15,
+      "pto_policy": "Standard",
+      "equipment": {
+        "laptop": {
+          "model": "Apple MacBook Pro 14",
+          "serial": "MBP-33098529",
+          "assigned": true
+        },
+        "phone": {
+          "model": "Pixel 9",
+          "serial": "PX-27496807",
+          "assigned": true
+        },
+        "accessories": [
+          "Dock",
+          "Headset",
+          "Mouse"
+        ]
+      }
+    },
+    {
+      "employee_id": "E1014",
+      "full_name": "Thomas Salas",
+      "preferred_name": null,
+      "email": "thomas.salas@examplecorp.com",
+      "phone": "701-576-3588x6538",
+      "job_title": "Senior Software Engineer",
+      "department": "Legal",
+      "manager_employee_id": "E1018",
+      "office_location": "Bengaluru",
+      "hire_date": "2025-05-15",
+      "employment_status": "Active",
+      "clearance_level": 1,
+      "salary_usd": 167135,
+      "salary_grade": "A2",
+      "pay_type": "Salary",
+      "pto_hours_balance": 147.3,
+      "pto_hours_accrual_per_pay_period": 6.15,
+      "pto_policy": "Standard",
+      "equipment": {
+        "laptop": {
+          "model": "Lenovo ThinkPad X1 Carbon",
+          "serial": "TP-39002153",
+          "assigned": true
+        },
+        "phone": {
+          "model": "None",
+          "serial": null,
+          "assigned": false
+        },
+        "accessories": [
+          "Security Key",
+          "Mouse",
+          "Dock"
+        ]
+      }
+    },
+    {
+      "employee_id": "E1015",
+      "full_name": "Shawn Hall",
+      "preferred_name": null,
+      "email": "shawn.hall@examplecorp.com",
+      "phone": "464.500.3535x907",
+      "job_title": "VP Engineering",
+      "department": "Product",
+      "manager_employee_id": "E1020",
+      "office_location": "Hyderabad",
+      "hire_date": "2023-05-27",
+      "employment_status": "Active",
+      "clearance_level": 1,
+      "salary_usd": 56090,
+      "salary_grade": "C2",
+      "pay_type": "Salary",
+      "pto_hours_balance": 104.9,
+      "pto_hours_accrual_per_pay_period": 10.0,
+      "pto_policy": "Executive",
+      "equipment": {
+        "laptop": {
+          "model": "Apple MacBook Pro 14",
+          "serial": "MBP-03363613",
+          "assigned": true
+        },
+        "phone": {
+          "model": "Pixel 9",
+          "serial": "PX-08185278",
+          "assigned": true
+        },
+        "accessories": [
+          "Security Key",
+          "External Monitor",
+          "Ergonomic Keyboard"
+        ]
+      }
+    },
+    {
+      "employee_id": "E1016",
+      "full_name": "Angela Hernandez",
+      "preferred_name": null,
+      "email": "angela.hernandez@examplecorp.com",
+      "phone": "001-674-640-6383x3013",
+      "job_title": "Software Engineer",
+      "department": "Finance",
+      "manager_employee_id": "E1020",
+      "office_location": "London",
+      "hire_date": "2016-08-23",
+      "employment_status": "Active",
+      "clearance_level": 1,
+      "salary_usd": 89538,
+      "salary_grade": "D1",
+      "pay_type": "Salary",
+      "pto_hours_balance": 117.7,
+      "pto_hours_accrual_per_pay_period": 6.15,
+      "pto_policy": "Standard",
+      "equipment": {
+        "laptop": {
+          "model": "Apple MacBook Pro 14",
+          "serial": "MBP-30360324",
+          "assigned": true
+        },
+        "phone": {
+          "model": "None",
+          "serial": null,
+          "assigned": false
+        },
+        "accessories": [
+          "Headset",
+          "Mouse",
+          "Ergonomic Keyboard"
+        ]
+      }
+    },
+    {
+      "employee_id": "E1017",
+      "full_name": "Felicia Glenn",
+      "preferred_name": null,
+      "email": "felicia.glenn@examplecorp.com",
+      "phone": "+1-730-318-1902x265",
+      "job_title": "Account Executive",
+      "department": "Engineering",
+      "manager_employee_id": "E1018",
+      "office_location": "London",
+      "hire_date": "2017-08-20",
+      "employment_status": "Active",
+      "clearance_level": 2,
+      "salary_usd": 201145,
+      "salary_grade": "C1",
+      "pay_type": "Hourly",
+      "pto_hours_balance": 148.5,
+      "pto_hours_accrual_per_pay_period": 6.15,
+      "pto_policy": "Standard",
+      "equipment": {
+        "laptop": {
+          "model": "Dell Latitude 7440",
+          "serial": "DL-78721211",
+          "assigned": true
+        },
+        "phone": {
+          "model": "Pixel 9",
+          "serial": "PX-70289257",
+          "assigned": true
+        },
+        "accessories": [
+          "Mouse"
+        ]
+      }
+    },
+    {
+      "employee_id": "E1018",
+      "full_name": "Megan Lynn",
+      "preferred_name": null,
+      "email": "megan.lynn@examplecorp.com",
+      "phone": "+1-527-400-0997x4624",
+      "job_title": "Customer Success Manager",
+      "department": "Marketing",
+      "manager_employee_id": "E1009",
+      "office_location": "Remote - US",
+      "hire_date": "2021-07-23",
+      "employment_status": "Active",
+      "clearance_level": 2,
+      "salary_usd": 240182,
+      "salary_grade": "B2",
+      "pay_type": "Hourly",
+      "pto_hours_balance": 21.1,
+      "pto_hours_accrual_per_pay_period": 6.15,
+      "pto_policy": "Standard",
+      "equipment": {
+        "laptop": {
+          "model": "Dell Latitude 7440",
+          "serial": "DL-69462359",
+          "assigned": true
+        },
+        "phone": {
+          "model": "None",
+          "serial": null,
+          "assigned": false
+        },
+        "accessories": [
+          "Headset",
+          "External Monitor",
+          "Ergonomic Keyboard"
+        ]
+      }
+    },
+    {
+      "employee_id": "E1019",
+      "full_name": "Valerie Martinez",
+      "preferred_name": null,
+      "email": "valerie.martinez@examplecorp.com",
+      "phone": "001-640-445-4705x31924",
+      "job_title": "CEO",
+      "department": "Executive",
+      "manager_employee_id": "E1000",
+      "office_location": "London",
+      "hire_date": "2023-01-22",
+      "employment_status": "Active",
+      "clearance_level": 3,
+      "salary_usd": 638468,
+      "salary_grade": "D1",
+      "pay_type": "Salary",
+      "pto_hours_balance": 136.8,
+      "pto_hours_accrual_per_pay_period": 10.0,
+      "pto_policy": "Executive",
+      "equipment": {
+        "laptop": {
+          "model": "Apple MacBook Pro 14",
+          "serial": "MBP-54094958",
+          "assigned": true
+        },
+        "phone": {
+          "model": "Pixel 9",
+          "serial": "PX-95695293",
+          "assigned": true
+        },
+        "accessories": [
+          "Ergonomic Keyboard",
+          "External Monitor",
+          "Headset"
+        ]
+      }
+    },
+    {
+      "employee_id": "E1020",
+      "full_name": "David Lewis",
+      "preferred_name": null,
+      "email": "david.lewis@examplecorp.com",
+      "phone": "(382)695-5504",
+      "job_title": "Senior Software Engineer",
+      "department": "Finance",
+      "manager_employee_id": "E1000",
+      "office_location": "Remote - India",
+      "hire_date": "2025-10-06",
+      "employment_status": "Active",
+      "clearance_level": 3,
+      "salary_usd": 246155,
+      "salary_grade": "A1",
+      "pay_type": "Hourly",
+      "pto_hours_balance": 58.4,
+      "pto_hours_accrual_per_pay_period": 10.0,
+      "pto_policy": "Executive",
+      "equipment": {
+        "laptop": {
+          "model": "Lenovo ThinkPad X1 Carbon",
+          "serial": "TP-02035230",
+          "assigned": true
+        },
+        "phone": {
+          "model": "iPhone 15",
+          "serial": "IP-74288826",
+          "assigned": true
+        },
+        "accessories": [
+          "Dock"
+        ]
+      }
+    },
+    {
+      "employee_id": "E1021",
+      "full_name": "Brett Harris",
+      "preferred_name": null,
+      "email": "brett.harris@examplecorp.com",
+      "phone": "532-418-9713",
+      "job_title": "IT Support Specialist",
+      "department": "Marketing",
+      "manager_employee_id": "E1018",
+      "office_location": "Remote - India",
+      "hire_date": "2021-06-21",
+      "employment_status": "Active",
+      "clearance_level": 1,
+      "salary_usd": 169032,
+      "salary_grade": "B2",
+      "pay_type": "Hourly",
+      "pto_hours_balance": 11.8,
+      "pto_hours_accrual_per_pay_period": 6.15,
+      "pto_policy": "Standard",
+      "equipment": {
+        "laptop": {
+          "model": "Lenovo ThinkPad X1 Carbon",
+          "serial": "TP-10702042",
+          "assigned": true
+        },
+        "phone": {
+          "model": "iPhone 15",
+          "serial": "IP-30079459",
+          "assigned": true
+        },
+        "accessories": [
+          "Dock"
+        ]
+      }
+    },
+    {
+      "employee_id": "E1022",
+      "full_name": "Ruben Joseph",
+      "preferred_name": null,
+      "email": "ruben.joseph@examplecorp.com",
+      "phone": "938-274-3103x2511",
+      "job_title": "Account Executive",
+      "department": "People Ops",
+      "manager_employee_id": "E1008",
+      "office_location": "London",
+      "hire_date": "2020-10-29",
+      "employment_status": "Active",
+      "clearance_level": 1,
+      "salary_usd": 103213,
+      "salary_grade": "B2",
+      "pay_type": "Salary",
+      "pto_hours_balance": 136.0,
+      "pto_hours_accrual_per_pay_period": 10.0,
+      "pto_policy": "Executive",
+      "equipment": {
+        "laptop": {
+          "model": "Dell Latitude 7440",
+          "serial": "DL-33250925",
+          "assigned": true
+        },
+        "phone": {
+          "model": "None",
+          "serial": null,
+          "assigned": false
+        },
+        "accessories": [
+          "Security Key"
+        ]
+      }
+    },
+    {
+      "employee_id": "E1023",
+      "full_name": "Ryan Jefferson Jr.",
+      "preferred_name": null,
+      "email": "ryan.jr@examplecorp.com",
+      "phone": "001-709-600-1545x77958",
+      "job_title": "Account Executive",
+      "department": "IT",
+      "manager_employee_id": "E1018",
+      "office_location": "Pune",
+      "hire_date": "2018-08-27",
+      "employment_status": "Active",
+      "clearance_level": 2,
+      "salary_usd": 210898,
+      "salary_grade": "C2",
+      "pay_type": "Salary",
+      "pto_hours_balance": 52.2,
+      "pto_hours_accrual_per_pay_period": 7.7,
+      "pto_policy": "Enhanced",
+      "equipment": {
+        "laptop": {
+          "model": "Lenovo ThinkPad X1 Carbon",
+          "serial": "TP-14814248",
+          "assigned": true
+        },
+        "phone": {
+          "model": "Pixel 9",
+          "serial": "PX-34935145",
+          "assigned": true
+        },
+        "accessories": [
+          "External Monitor",
+          "Dock"
+        ]
+      }
+    },
+    {
+      "employee_id": "E1024",
+      "full_name": "Kevin Galvan",
+      "preferred_name": null,
+      "email": "kevin.galvan@examplecorp.com",
+      "phone": "+1-633-575-2716x63058",
+      "job_title": "Marketing Manager",
+      "department": "Customer Success",
+      "manager_employee_id": "E1008",
+      "office_location": "Pune",
+      "hire_date": "2018-02-09",
+      "employment_status": "Active",
+      "clearance_level": 3,
+      "salary_usd": 279819,
+      "salary_grade": "A1",
+      "pay_type": "Salary",
+      "pto_hours_balance": 14.1,
+      "pto_hours_accrual_per_pay_period": 10.0,
+      "pto_policy": "Executive",
+      "equipment": {
+        "laptop": {
+          "model": "Dell Latitude 7440",
+          "serial": "DL-21115805",
+          "assigned": true
+        },
+        "phone": {
+          "model": "Pixel 9",
+          "serial": "PX-08238683",
+          "assigned": true
+        },
+        "accessories": [
+          "Ergonomic Keyboard",
+          "Security Key",
+          "Dock"
+        ]
+      }
+    },
+    {
+      "employee_id": "E1025",
+      "full_name": "Jessica Jackson",
+      "preferred_name": null,
+      "email": "jessica.jackson@examplecorp.com",
+      "phone": "+1-911-684-4845",
+      "job_title": "Financial Analyst",
+      "department": "Executive",
+      "manager_employee_id": "E1000",
+      "office_location": "Bengaluru",
+      "hire_date": "2024-03-10",
+      "employment_status": "Active",
+      "clearance_level": 4,
+      "salary_usd": 164663,
+      "salary_grade": "C2",
+      "pay_type": "Hourly",
+      "pto_hours_balance": 158.8,
+      "pto_hours_accrual_per_pay_period": 10.0,
+      "pto_policy": "Executive",
+      "equipment": {
+        "laptop": {
+          "model": "Lenovo ThinkPad X1 Carbon",
+          "serial": "TP-07865401",
+          "assigned": true
+        },
+        "phone": {
+          "model": "None",
+          "serial": null,
+          "assigned": false
+        },
+        "accessories": [
+          "Security Key",
+          "Ergonomic Keyboard",
+          "Headset"
+        ]
+      }
+    },
+    {
+      "employee_id": "E1026",
+      "full_name": "Regina Diaz",
+      "preferred_name": null,
+      "email": "regina.diaz@examplecorp.com",
+      "phone": "426-481-4755",
+      "job_title": "HR Business Partner",
+      "department": "Marketing",
+      "manager_employee_id": "E1020",
+      "office_location": "Pune",
+      "hire_date": "2024-09-12",
+      "employment_status": "Active",
+      "clearance_level": 1,
+      "salary_usd": 83312,
+      "salary_grade": "A2",
+      "pay_type": "Salary",
+      "pto_hours_balance": 44.2,
+      "pto_hours_accrual_per_pay_period": 6.15,
+      "pto_policy": "Standard",
+      "equipment": {
+        "laptop": {
+          "model": "Lenovo ThinkPad X1 Carbon",
+          "serial": "TP-81616441",
+          "assigned": true
+        },
+        "phone": {
+          "model": "Pixel 9",
+          "serial": "PX-76581134",
+          "assigned": true
+        },
+        "accessories": [
+          "Headset"
+        ]
+      }
+    },
+    {
+      "employee_id": "E1027",
+      "full_name": "Casey Miller",
+      "preferred_name": null,
+      "email": "casey.miller@examplecorp.com",
+      "phone": "677-987-7890",
+      "job_title": "Product Manager",
+      "department": "Sales",
+      "manager_employee_id": "E1031",
+      "office_location": "Remote - India",
+      "hire_date": "2015-06-08",
+      "employment_status": "Active",
+      "clearance_level": 2,
+      "salary_usd": 142877,
+      "salary_grade": "A1",
+      "pay_type": "Hourly",
+      "pto_hours_balance": 42.4,
+      "pto_hours_accrual_per_pay_period": 10.0,
+      "pto_policy": "Executive",
+      "equipment": {
+        "laptop": {
+          "model": "Lenovo ThinkPad X1 Carbon",
+          "serial": "TP-46403113",
+          "assigned": true
+        },
+        "phone": {
+          "model": "Pixel 9",
+          "serial": "PX-24372592",
+          "assigned": true
+        },
+        "accessories": [
+          "Ergonomic Keyboard",
+          "Dock"
+        ]
+      }
+    },
+    {
+      "employee_id": "E1028",
+      "full_name": "Rhonda Hamilton",
+      "preferred_name": null,
+      "email": "rhonda.hamilton@examplecorp.com",
+      "phone": "001-291-862-3300x88079",
+      "job_title": "Sales Manager",
+      "department": "Sales",
+      "manager_employee_id": "E1009",
+      "office_location": "Pune",
+      "hire_date": "2024-09-30",
+      "employment_status": "Active",
+      "clearance_level": 2,
+      "salary_usd": 73453,
+      "salary_grade": "C2",
+      "pay_type": "Salary",
+      "pto_hours_balance": 141.3,
+      "pto_hours_accrual_per_pay_period": 6.15,
+      "pto_policy": "Standard",
+      "equipment": {
+        "laptop": {
+          "model": "Dell Latitude 7440",
+          "serial": "DL-18517101",
+          "assigned": true
+        },
+        "phone": {
+          "model": "None",
+          "serial": null,
+          "assigned": false
+        },
+        "accessories": [
+          "Headset",
+          "Mouse",
+          "Dock"
+        ]
+      }
+    },
+    {
+      "employee_id": "E1029",
+      "full_name": "Brad Griffin",
+      "preferred_name": null,
+      "email": "brad.griffin@examplecorp.com",
+      "phone": "798.648.0252",
+      "job_title": "Engineering Manager",
+      "department": "Executive",
+      "manager_employee_id": "E1008",
+      "office_location": "Pune",
+      "hire_date": "2016-04-08",
+      "employment_status": "Active",
+      "clearance_level": 3,
+      "salary_usd": 97228,
+      "salary_grade": "B1",
+      "pay_type": "Salary",
+      "pto_hours_balance": 19.4,
+      "pto_hours_accrual_per_pay_period": 10.0,
+      "pto_policy": "Executive",
+      "equipment": {
+        "laptop": {
+          "model": "Lenovo ThinkPad X1 Carbon",
+          "serial": "TP-89194067",
+          "assigned": true
+        },
+        "phone": {
+          "model": "Pixel 9",
+          "serial": "PX-49580500",
+          "assigned": true
+        },
+        "accessories": [
+          "Ergonomic Keyboard",
+          "Mouse",
+          "Security Key"
+        ]
+      }
+    },
+    {
+      "employee_id": "E1030",
+      "full_name": "Samantha Lopez",
+      "preferred_name": null,
+      "email": "samantha.lopez@examplecorp.com",
+      "phone": "882-432-6900x16679",
+      "job_title": "IT Support Specialist",
+      "department": "Product",
+      "manager_employee_id": "E1018",
+      "office_location": "Hyderabad",
+      "hire_date": "2016-02-02",
+      "employment_status": "Active",
+      "clearance_level": 2,
+      "salary_usd": 101770,
+      "salary_grade": "C2",
+      "pay_type": "Hourly",
+      "pto_hours_balance": 89.5,
+      "pto_hours_accrual_per_pay_period": 10.0,
+      "pto_policy": "Executive",
+      "equipment": {
+        "laptop": {
+          "model": "Lenovo ThinkPad X1 Carbon",
+          "serial": "TP-42410700",
+          "assigned": true
+        },
+        "phone": {
+          "model": "iPhone 15",
+          "serial": "IP-71776597",
+          "assigned": true
+        },
+        "accessories": [
+          "Headset",
+          "Dock",
+          "External Monitor"
+        ]
+      }
+    },
+    {
+      "employee_id": "E1031",
+      "full_name": "Grace Pugh",
+      "preferred_name": null,
+      "email": "grace.pugh@examplecorp.com",
+      "phone": "(644)410-5112",
+      "job_title": "Software Engineer",
+      "department": "Sales",
+      "manager_employee_id": "E1020",
+      "office_location": "Pune",
+      "hire_date": "2020-10-10",
+      "employment_status": "Active",
+      "clearance_level": 1,
+      "salary_usd": 155223,
+      "salary_grade": "B1",
+      "pay_type": "Salary",
+      "pto_hours_balance": 61.0,
+      "pto_hours_accrual_per_pay_period": 7.7,
+      "pto_policy": "Enhanced",
+      "equipment": {
+        "laptop": {
+          "model": "Dell Latitude 7440",
+          "serial": "DL-85847260",
+          "assigned": true
+        },
+        "phone": {
+          "model": "None",
+          "serial": null,
+          "assigned": false
+        },
+        "accessories": [
+          "Ergonomic Keyboard",
+          "External Monitor",
+          "Mouse"
+        ]
+      }
+    },
+    {
+      "employee_id": "E1032",
+      "full_name": "Candice Jones",
+      "preferred_name": null,
+      "email": "candice.jones@examplecorp.com",
+      "phone": "001-202-285-9749x910",
+      "job_title": "Legal Counsel",
+      "department": "Marketing",
+      "manager_employee_id": "E1009",
+      "office_location": "Bengaluru",
+      "hire_date": "2025-12-16",
+      "employment_status": "Active",
+      "clearance_level": 1,
+      "salary_usd": 175263,
+      "salary_grade": "B2",
+      "pay_type": "Salary",
+      "pto_hours_balance": 106.5,
+      "pto_hours_accrual_per_pay_period": 7.7,
+      "pto_policy": "Enhanced",
+      "equipment": {
+        "laptop": {
+          "model": "Lenovo ThinkPad X1 Carbon",
+          "serial": "TP-15293651",
+          "assigned": true
+        },
+        "phone": {
+          "model": "Pixel 9",
+          "serial": "PX-60291798",
+          "assigned": true
+        },
+        "accessories": [
+          "Ergonomic Keyboard"
+        ]
+      }
+    },
+    {
+      "employee_id": "E1033",
+      "full_name": "Kimberly Duncan",
+      "preferred_name": null,
+      "email": "kimberly.duncan@examplecorp.com",
+      "phone": "+1-291-376-7862x801",
+      "job_title": "Financial Analyst",
+      "department": "IT",
+      "manager_employee_id": "E1009",
+      "office_location": "Bengaluru",
+      "hire_date": "2024-11-10",
+      "employment_status": "Active",
+      "clearance_level": 2,
+      "salary_usd": 198213,
+      "salary_grade": "A1",
+      "pay_type": "Hourly",
+      "pto_hours_balance": 141.6,
+      "pto_hours_accrual_per_pay_period": 6.15,
+      "pto_policy": "Standard",
+      "equipment": {
+        "laptop": {
+          "model": "Lenovo ThinkPad X1 Carbon",
+          "serial": "TP-09353811",
+          "assigned": true
+        },
+        "phone": {
+          "model": "Pixel 9",
+          "serial": "PX-14823136",
+          "assigned": true
+        },
+        "accessories": [
+          "External Monitor",
+          "Headset",
+          "Security Key"
+        ]
+      }
+    },
+    {
+      "employee_id": "E1034",
+      "full_name": "Jacob Snyder",
+      "preferred_name": null,
+      "email": "jacob.snyder@examplecorp.com",
+      "phone": "923-654-2873x9640",
+      "job_title": "Product Manager",
+      "department": "Customer Success",
+      "manager_employee_id": "E1018",
+      "office_location": "Remote - US",
+      "hire_date": "2014-09-20",
+      "employment_status": "Active",
+      "clearance_level": 1,
+      "salary_usd": 200193,
+      "salary_grade": "C2",
+      "pay_type": "Hourly",
+      "pto_hours_balance": 68.7,
+      "pto_hours_accrual_per_pay_period": 6.15,
+      "pto_policy": "Standard",
+      "equipment": {
+        "laptop": {
+          "model": "Lenovo ThinkPad X1 Carbon",
+          "serial": "TP-94969401",
+          "assigned": true
+        },
+        "phone": {
+          "model": "Pixel 9",
+          "serial": "PX-15187210",
+          "assigned": true
+        },
+        "accessories": [
+          "Dock"
+        ]
+      }
+    },
+    {
+      "employee_id": "E1035",
+      "full_name": "Marcia Diaz",
+      "preferred_name": null,
+      "email": "marcia.diaz@examplecorp.com",
+      "phone": "6225898962",
+      "job_title": "Senior Software Engineer",
+      "department": "Engineering",
+      "manager_employee_id": "E1020",
+      "office_location": "London",
+      "hire_date": "2017-09-30",
+      "employment_status": "Active",
+      "clearance_level": 2,
+      "salary_usd": 182282,
+      "salary_grade": "C2",
+      "pay_type": "Hourly",
+      "pto_hours_balance": 25.9,
+      "pto_hours_accrual_per_pay_period": 7.7,
+      "pto_policy": "Enhanced",
+      "equipment": {
+        "laptop": {
+          "model": "Lenovo ThinkPad X1 Carbon",
+          "serial": "TP-96856550",
+          "assigned": true
+        },
+        "phone": {
+          "model": "iPhone 15",
+          "serial": "IP-74631961",
+          "assigned": true
+        },
+        "accessories": [
+          "External Monitor"
+        ]
+      }
+    },
+    {
+      "employee_id": "E1036",
+      "full_name": "Christian Murphy",
+      "preferred_name": null,
+      "email": "christian.murphy@examplecorp.com",
+      "phone": "+1-337-409-5185x4405",
+      "job_title": "Account Executive",
+      "department": "Engineering",
+      "manager_employee_id": "E1008",
+      "office_location": "Bengaluru",
+      "hire_date": "2018-02-02",
+      "employment_status": "Active",
+      "clearance_level": 2,
+      "salary_usd": 146554,
+      "salary_grade": "C1",
+      "pay_type": "Salary",
+      "pto_hours_balance": 155.7,
+      "pto_hours_accrual_per_pay_period": 10.0,
+      "pto_policy": "Executive",
+      "equipment": {
+        "laptop": {
+          "model": "Apple MacBook Pro 14",
+          "serial": "MBP-20967149",
+          "assigned": true
+        },
+        "phone": {
+          "model": "None",
+          "serial": null,
+          "assigned": false
+        },
+        "accessories": [
+          "Ergonomic Keyboard",
+          "Dock"
+        ]
+      }
+    },
+    {
+      "employee_id": "E1037",
+      "full_name": "Aaron Weiss Jr.",
+      "preferred_name": null,
+      "email": "aaron.jr@examplecorp.com",
+      "phone": "(594)343-3764x7268",
+      "job_title": "Chief People Officer",
+      "department": "Sales",
+      "manager_employee_id": "E1000",
+      "office_location": "Remote - India",
+      "hire_date": "2015-07-13",
+      "employment_status": "Active",
+      "clearance_level": 2,
+      "salary_usd": 179605,
+      "salary_grade": "C1",
+      "pay_type": "Hourly",
+      "pto_hours_balance": 125.1,
+      "pto_hours_accrual_per_pay_period": 7.7,
+      "pto_policy": "Enhanced",
+      "equipment": {
+        "laptop": {
+          "model": "Dell Latitude 7440",
+          "serial": "DL-35147144",
+          "assigned": true
+        },
+        "phone": {
+          "model": "iPhone 15",
+          "serial": "IP-78216271",
+          "assigned": true
+        },
+        "accessories": [
+          "Headset",
+          "Mouse",
+          "Ergonomic Keyboard"
+        ]
+      }
+    },
+    {
+      "employee_id": "E1038",
+      "full_name": "Lisa Martin",
+      "preferred_name": null,
+      "email": "lisa.martin@examplecorp.com",
+      "phone": "(263)895-3383",
+      "job_title": "HR Business Partner",
+      "department": "Executive",
+      "manager_employee_id": "E1009",
+      "office_location": "Bengaluru",
+      "hire_date": "2025-02-19",
+      "employment_status": "Active",
+      "clearance_level": 3,
+      "salary_usd": 181874,
+      "salary_grade": "C1",
+      "pay_type": "Salary",
+      "pto_hours_balance": 14.0,
+      "pto_hours_accrual_per_pay_period": 10.0,
+      "pto_policy": "Executive",
+      "equipment": {
+        "laptop": {
+          "model": "Lenovo ThinkPad X1 Carbon",
+          "serial": "TP-31901676",
+          "assigned": true
+        },
+        "phone": {
+          "model": "Pixel 9",
+          "serial": "PX-03598076",
+          "assigned": true
+        },
+        "accessories": [
+          "Ergonomic Keyboard"
+        ]
+      }
+    },
+    {
+      "employee_id": "E1039",
+      "full_name": "Mr. Brian Green",
+      "preferred_name": null,
+      "email": "mr.green@examplecorp.com",
+      "phone": "2309450753",
+      "job_title": "HR Business Partner",
+      "department": "Customer Success",
+      "manager_employee_id": "E1030",
+      "office_location": "Pune",
+      "hire_date": "2015-01-08",
+      "employment_status": "Active",
+      "clearance_level": 1,
+      "salary_usd": 205206,
+      "salary_grade": "B1",
+      "pay_type": "Hourly",
+      "pto_hours_balance": 131.4,
+      "pto_hours_accrual_per_pay_period": 7.7,
+      "pto_policy": "Enhanced",
+      "equipment": {
+        "laptop": {
+          "model": "Apple MacBook Pro 14",
+          "serial": "MBP-46855859",
+          "assigned": true
+        },
+        "phone": {
+          "model": "None",
+          "serial": null,
+          "assigned": false
+        },
+        "accessories": [
+          "Dock"
+        ]
+      }
+    },
+    {
+      "employee_id": "E1040",
+      "full_name": "Sheryl Moore",
+      "preferred_name": null,
+      "email": "sheryl.moore@examplecorp.com",
+      "phone": "829-352-5176x3261",
+      "job_title": "Legal Counsel",
+      "department": "Finance",
+      "manager_employee_id": "E1018",
+      "office_location": "Bengaluru",
+      "hire_date": "2025-03-20",
+      "employment_status": "Active",
+      "clearance_level": 2,
+      "salary_usd": 149674,
+      "salary_grade": "B2",
+      "pay_type": "Hourly",
+      "pto_hours_balance": 77.1,
+      "pto_hours_accrual_per_pay_period": 6.15,
+      "pto_policy": "Standard",
+      "equipment": {
+        "laptop": {
+          "model": "Lenovo ThinkPad X1 Carbon",
+          "serial": "TP-78348595",
+          "assigned": true
+        },
+        "phone": {
+          "model": "iPhone 15",
+          "serial": "IP-88194644",
+          "assigned": true
+        },
+        "accessories": [
+          "Dock"
+        ]
+      }
+    },
+    {
+      "employee_id": "E1041",
+      "full_name": "Devin Robertson",
+      "preferred_name": null,
+      "email": "devin.robertson@examplecorp.com",
+      "phone": "001-812-841-5812",
+      "job_title": "VP Engineering",
+      "department": "IT",
+      "manager_employee_id": "E1009",
+      "office_location": "Remote - India",
+      "hire_date": "2019-06-17",
+      "employment_status": "Active",
+      "clearance_level": 1,
+      "salary_usd": 200780,
+      "salary_grade": "D1",
+      "pay_type": "Hourly",
+      "pto_hours_balance": 61.1,
+      "pto_hours_accrual_per_pay_period": 10.0,
+      "pto_policy": "Executive",
+      "equipment": {
+        "laptop": {
+          "model": "Apple MacBook Pro 14",
+          "serial": "MBP-88235791",
+          "assigned": true
+        },
+        "phone": {
+          "model": "iPhone 15",
+          "serial": "IP-17602233",
+          "assigned": true
+        },
+        "accessories": [
+          "Dock"
+        ]
+      }
+    },
+    {
+      "employee_id": "E1042",
+      "full_name": "Renee Burke",
+      "preferred_name": null,
+      "email": "renee.burke@examplecorp.com",
+      "phone": "313.772.2986x6576",
+      "job_title": "Software Engineer",
+      "department": "Sales",
+      "manager_employee_id": "E1009",
+      "office_location": "Remote - India",
+      "hire_date": "2018-07-02",
+      "employment_status": "Active",
+      "clearance_level": 1,
+      "salary_usd": 119915,
+      "salary_grade": "C2",
+      "pay_type": "Salary",
+      "pto_hours_balance": 43.4,
+      "pto_hours_accrual_per_pay_period": 10.0,
+      "pto_policy": "Executive",
+      "equipment": {
+        "laptop": {
+          "model": "Apple MacBook Pro 14",
+          "serial": "MBP-32099476",
+          "assigned": true
+        },
+        "phone": {
+          "model": "Pixel 9",
+          "serial": "PX-78974866",
+          "assigned": true
+        },
+        "accessories": [
+          "External Monitor"
+        ]
+      }
+    },
+    {
+      "employee_id": "E1043",
+      "full_name": "Joshua Mccoy",
+      "preferred_name": null,
+      "email": "joshua.mccoy@examplecorp.com",
+      "phone": "578.965.8515x59274",
+      "job_title": "IT Support Specialist",
+      "department": "Executive",
+      "manager_employee_id": "E1000",
+      "office_location": "Hyderabad",
+      "hire_date": "2015-10-11",
+      "employment_status": "Active",
+      "clearance_level": 3,
+      "salary_usd": 164456,
+      "salary_grade": "C1",
+      "pay_type": "Hourly",
+      "pto_hours_balance": 135.9,
+      "pto_hours_accrual_per_pay_period": 10.0,
+      "pto_policy": "Executive",
+      "equipment": {
+        "laptop": {
+          "model": "Dell Latitude 7440",
+          "serial": "DL-41802540",
+          "assigned": true
+        },
+        "phone": {
+          "model": "None",
+          "serial": null,
+          "assigned": false
+        },
+        "accessories": [
+          "Dock",
+          "External Monitor",
+          "Security Key"
+        ]
+      }
+    },
+    {
+      "employee_id": "E1044",
+      "full_name": "Elizabeth Vaughan",
+      "preferred_name": null,
+      "email": "elizabeth.vaughan@examplecorp.com",
+      "phone": "823.219.4432x720",
+      "job_title": "Customer Success Manager",
+      "department": "Executive",
+      "manager_employee_id": "E1000",
+      "office_location": "Hyderabad",
+      "hire_date": "2024-09-13",
+      "employment_status": "Active",
+      "clearance_level": 3,
+      "salary_usd": 236710,
+      "salary_grade": "C2",
+      "pay_type": "Hourly",
+      "pto_hours_balance": 38.1,
+      "pto_hours_accrual_per_pay_period": 10.0,
+      "pto_policy": "Executive",
+      "equipment": {
+        "laptop": {
+          "model": "Lenovo ThinkPad X1 Carbon",
+          "serial": "TP-63092120",
+          "assigned": true
+        },
+        "phone": {
+          "model": "Pixel 9",
+          "serial": "PX-08636319",
+          "assigned": true
+        },
+        "accessories": [
+          "Ergonomic Keyboard",
+          "Headset"
+        ]
+      }
+    },
+    {
+      "employee_id": "E1045",
+      "full_name": "Jesse Adams",
+      "preferred_name": null,
+      "email": "jesse.adams@examplecorp.com",
+      "phone": "001-465-516-5661x85750",
+      "job_title": "Customer Success Manager",
+      "department": "Sales",
+      "manager_employee_id": "E1018",
+      "office_location": "Remote - India",
+      "hire_date": "2014-11-08",
+      "employment_status": "Active",
+      "clearance_level": 4,
+      "salary_usd": 189844,
+      "salary_grade": "C1",
+      "pay_type": "Hourly",
+      "pto_hours_balance": 72.5,
+      "pto_hours_accrual_per_pay_period": 10.0,
+      "pto_policy": "Executive",
+      "equipment": {
+        "laptop": {
+          "model": "Dell Latitude 7440",
+          "serial": "DL-10537900",
+          "assigned": true
+        },
+        "phone": {
+          "model": "iPhone 15",
+          "serial": "IP-47154712",
+          "assigned": true
+        },
+        "accessories": [
+          "Mouse",
+          "Dock"
+        ]
+      }
+    },
+    {
+      "employee_id": "E1046",
+      "full_name": "Benjamin Perry",
+      "preferred_name": null,
+      "email": "benjamin.perry@examplecorp.com",
+      "phone": "001-267-776-0221",
+      "job_title": "Product Manager",
+      "department": "Customer Success",
+      "manager_employee_id": "E1008",
+      "office_location": "Pune",
+      "hire_date": "2017-04-14",
+      "employment_status": "Active",
+      "clearance_level": 3,
+      "salary_usd": 274227,
+      "salary_grade": "D1",
+      "pay_type": "Salary",
+      "pto_hours_balance": 150.4,
+      "pto_hours_accrual_per_pay_period": 10.0,
+      "pto_policy": "Executive",
+      "equipment": {
+        "laptop": {
+          "model": "Dell Latitude 7440",
+          "serial": "DL-10053438",
+          "assigned": true
+        },
+        "phone": {
+          "model": "Pixel 9",
+          "serial": "PX-56065428",
+          "assigned": true
+        },
+        "accessories": [
+          "Headset",
+          "Security Key"
+        ]
+      }
+    },
+    {
+      "employee_id": "E1047",
+      "full_name": "Hannah Hernandez",
+      "preferred_name": null,
+      "email": "hannah.hernandez@examplecorp.com",
+      "phone": "261.421.5889x204",
+      "job_title": "Chief People Officer",
+      "department": "Marketing",
+      "manager_employee_id": "E1009",
+      "office_location": "Remote - India",
+      "hire_date": "2016-01-13",
+      "employment_status": "Active",
+      "clearance_level": 1,
+      "salary_usd": 209986,
+      "salary_grade": "A1",
+      "pay_type": "Hourly",
+      "pto_hours_balance": 94.0,
+      "pto_hours_accrual_per_pay_period": 6.15,
+      "pto_policy": "Standard",
+      "equipment": {
+        "laptop": {
+          "model": "Dell Latitude 7440",
+          "serial": "DL-64100105",
+          "assigned": true
+        },
+        "phone": {
+          "model": "iPhone 15",
+          "serial": "IP-40735061",
+          "assigned": true
+        },
+        "accessories": [
+          "Mouse",
+          "Headset",
+          "Ergonomic Keyboard"
+        ]
+      }
+    },
+    {
+      "employee_id": "E1048",
+      "full_name": "Derek Myers",
+      "preferred_name": null,
+      "email": "derek.myers@examplecorp.com",
+      "phone": "369-356-4226x780",
+      "job_title": "Marketing Manager",
+      "department": "Finance",
+      "manager_employee_id": "E1009",
+      "office_location": "London",
+      "hire_date": "2020-11-02",
+      "employment_status": "Active",
+      "clearance_level": 1,
+      "salary_usd": 262635,
+      "salary_grade": "C2",
+      "pay_type": "Hourly",
+      "pto_hours_balance": 140.7,
+      "pto_hours_accrual_per_pay_period": 6.15,
+      "pto_policy": "Standard",
+      "equipment": {
+        "laptop": {
+          "model": "Dell Latitude 7440",
+          "serial": "DL-14176881",
+          "assigned": true
+        },
+        "phone": {
+          "model": "iPhone 15",
+          "serial": "IP-75562923",
+          "assigned": true
+        },
+        "accessories": [
+          "Mouse"
+        ]
+      }
+    },
+    {
+      "employee_id": "E1049",
+      "full_name": "Paul Turner",
+      "preferred_name": null,
+      "email": "paul.turner@examplecorp.com",
+      "phone": "870.962.4120x4833",
+      "job_title": "Software Engineer",
+      "department": "Executive",
+      "manager_employee_id": "E1008",
+      "office_location": "Remote - US",
+      "hire_date": "2025-09-01",
+      "employment_status": "Active",
+      "clearance_level": 4,
+      "salary_usd": 208147,
+      "salary_grade": "C1",
+      "pay_type": "Hourly",
+      "pto_hours_balance": 40.0,
+      "pto_hours_accrual_per_pay_period": 10.0,
+      "pto_policy": "Executive",
+      "equipment": {
+        "laptop": {
+          "model": "Lenovo ThinkPad X1 Carbon",
+          "serial": "TP-77772122",
+          "assigned": true
+        },
+        "phone": {
+          "model": "Pixel 9",
+          "serial": "PX-43965003",
+          "assigned": true
+        },
+        "accessories": [
+          "Headset",
+          "External Monitor",
+          "Ergonomic Keyboard"
+        ]
+      }
+    },
+    {
+      "employee_id": "E1050",
+      "full_name": "New Director",
+      "preferred_name": "New",
+      "email": "new.director@examplecorp.com",
+      "phone": "N/A",
+      "job_title": "Director",
+      "department": "Executive",
+      "manager_employee_id": null,
+      "office_location": "Remote - TBD",
+      "hire_date": "2026-03-17",
+      "employment_status": "Onboarding",
+      "clearance_level": 4,
+      "salary_usd": 0,
+      "salary_grade": "TBD",
+      "pay_type": "Salary",
+      "pto_hours_balance": 0.0,
+      "pto_hours_accrual_per_pay_period": 0.0,
+      "pto_policy": "TBD",
+      "equipment": {
+        "laptop": {
+          "model": "TBD",
+          "serial": null,
+          "assigned": false
+        },
+        "phone": {
+          "model": "TBD",
+          "serial": null,
+          "assigned": false
+        },
+        "accessories": []
+      }
+    },
+    {
+      "employee_id": "E1051",
+      "full_name": "Demo Engineer",
+      "preferred_name": "Demo",
+      "email": "demo.engineer@examplecorp.com",
+      "phone": "N/A",
+      "job_title": "Engineer",
+      "department": "Engineering",
+      "manager_employee_id": null,
+      "office_location": "Remote - TBD",
+      "hire_date": "2026-03-17",
+      "employment_status": "Onboarding",
+      "clearance_level": 2,
+      "salary_usd": 0,
+      "salary_grade": "TBD",
+      "pay_type": "Salary",
+      "pto_hours_balance": 0.0,
+      "pto_hours_accrual_per_pay_period": 0.0,
+      "pto_policy": "TBD",
+      "equipment": {
+        "laptop": {
+          "model": "TBD",
+          "serial": null,
+          "assigned": false
+        },
+        "phone": {
+          "model": "TBD",
+          "serial": null,
+          "assigned": false
+        },
+        "accessories": []
+      }
+    }
+  ]
+}
